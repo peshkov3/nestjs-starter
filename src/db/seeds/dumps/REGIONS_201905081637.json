@@ -1,0 +1,7409 @@
+{
+"REGIONS": [
+	{
+		"ID" : 926,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Bistriţa-Năsăud",
+		"NAME_EN" : "Bistriţa-Năsăud",
+		"NAME_RO" : "Bistriţa-Năsăud"
+	},
+	{
+		"ID" : 927,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Botoşani",
+		"NAME_EN" : "Botoşani",
+		"NAME_RO" : "Botoşani"
+	},
+	{
+		"ID" : 928,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Braşov",
+		"NAME_EN" : "Braşov",
+		"NAME_RO" : "Braşov"
+	},
+	{
+		"ID" : 929,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Brăila",
+		"NAME_EN" : "Brăila",
+		"NAME_RO" : "Brăila"
+	},
+	{
+		"ID" : 930,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Buzău",
+		"NAME_EN" : "Buzău",
+		"NAME_RO" : "Buzău"
+	},
+	{
+		"ID" : 931,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Caraş-Severin",
+		"NAME_EN" : "Caraş-Severin",
+		"NAME_RO" : "Caraş-Severin"
+	},
+	{
+		"ID" : 932,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Călăraşi",
+		"NAME_EN" : "Călăraşi",
+		"NAME_RO" : "Călăraşi"
+	},
+	{
+		"ID" : 933,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Cluj",
+		"NAME_EN" : "Cluj",
+		"NAME_RO" : "Cluj"
+	},
+	{
+		"ID" : 934,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Constanţa",
+		"NAME_EN" : "Constanţa",
+		"NAME_RO" : "Constanţa"
+	},
+	{
+		"ID" : 935,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Covasna",
+		"NAME_EN" : "Covasna",
+		"NAME_RO" : "Covasna"
+	},
+	{
+		"ID" : 936,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Dâmboviţa",
+		"NAME_EN" : "Dâmboviţa",
+		"NAME_RO" : "Dâmboviţa"
+	},
+	{
+		"ID" : 937,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Dolj",
+		"NAME_EN" : "Dolj",
+		"NAME_RO" : "Dolj"
+	},
+	{
+		"ID" : 938,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Galaţi",
+		"NAME_EN" : "Galaţi",
+		"NAME_RO" : "Galaţi"
+	},
+	{
+		"ID" : 939,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Giurgiu",
+		"NAME_EN" : "Giurgiu",
+		"NAME_RO" : "Giurgiu"
+	},
+	{
+		"ID" : 940,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Gorj",
+		"NAME_EN" : "Gorj",
+		"NAME_RO" : "Gorj"
+	},
+	{
+		"ID" : 941,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Harghita",
+		"NAME_EN" : "Harghita",
+		"NAME_RO" : "Harghita"
+	},
+	{
+		"ID" : 942,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Hunedoara",
+		"NAME_EN" : "Hunedoara",
+		"NAME_RO" : "Hunedoara"
+	},
+	{
+		"ID" : 943,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Ialomiţa",
+		"NAME_EN" : "Ialomiţa",
+		"NAME_RO" : "Ialomiţa"
+	},
+	{
+		"ID" : 944,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Iaşi",
+		"NAME_EN" : "Iaşi",
+		"NAME_RO" : "Iaşi"
+	},
+	{
+		"ID" : 945,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Ilfov",
+		"NAME_EN" : "Ilfov",
+		"NAME_RO" : "Ilfov"
+	},
+	{
+		"ID" : 946,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Maramureş",
+		"NAME_EN" : "Maramureş",
+		"NAME_RO" : "Maramureş"
+	},
+	{
+		"ID" : 947,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Mehedinţi",
+		"NAME_EN" : "Mehedinţi",
+		"NAME_RO" : "Mehedinţi"
+	},
+	{
+		"ID" : 948,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Mureş",
+		"NAME_EN" : "Mureş",
+		"NAME_RO" : "Mureş"
+	},
+	{
+		"ID" : 949,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Neamţ",
+		"NAME_EN" : "Neamţ",
+		"NAME_RO" : "Neamţ"
+	},
+	{
+		"ID" : 950,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Olt",
+		"NAME_EN" : "Olt",
+		"NAME_RO" : "Olt"
+	},
+	{
+		"ID" : 951,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Prahova",
+		"NAME_EN" : "Prahova",
+		"NAME_RO" : "Prahova"
+	},
+	{
+		"ID" : 952,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Satu Mare",
+		"NAME_EN" : "Satu Mare",
+		"NAME_RO" : "Satu Mare"
+	},
+	{
+		"ID" : 953,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Sălaj",
+		"NAME_EN" : "Sălaj",
+		"NAME_RO" : "Sălaj"
+	},
+	{
+		"ID" : 954,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Sibiu",
+		"NAME_EN" : "Sibiu",
+		"NAME_RO" : "Sibiu"
+	},
+	{
+		"ID" : 955,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Suceava",
+		"NAME_EN" : "Suceava",
+		"NAME_RO" : "Suceava"
+	},
+	{
+		"ID" : 956,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Teleorman",
+		"NAME_EN" : "Teleorman",
+		"NAME_RO" : "Teleorman"
+	},
+	{
+		"ID" : 957,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Timiş",
+		"NAME_EN" : "Timiş",
+		"NAME_RO" : "Timiş"
+	},
+	{
+		"ID" : 958,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Tulcea",
+		"NAME_EN" : "Tulcea",
+		"NAME_RO" : "Tulcea"
+	},
+	{
+		"ID" : 959,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Vaslui",
+		"NAME_EN" : "Vaslui",
+		"NAME_RO" : "Vaslui"
+	},
+	{
+		"ID" : 960,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Vâlcea",
+		"NAME_EN" : "Vâlcea",
+		"NAME_RO" : "Vâlcea"
+	},
+	{
+		"ID" : 961,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Vrancea",
+		"NAME_EN" : "Vrancea",
+		"NAME_RO" : "Vrancea"
+	},
+	{
+		"ID" : 962,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Bucureşti",
+		"NAME_EN" : "Bucureşti",
+		"NAME_RO" : "Bucureşti"
+	},
+	{
+		"ID" : 1,
+		"COUNTRY_ID" : 14,
+		"NAME_RU" : "Зальцбург",
+		"NAME_EN" : "Salzburg",
+		"NAME_RO" : "Salzburg"
+	},
+	{
+		"ID" : 2,
+		"COUNTRY_ID" : 14,
+		"NAME_RU" : "Каринтия",
+		"NAME_EN" : "Carinthia",
+		"NAME_RO" : "Carinthia"
+	},
+	{
+		"ID" : 3,
+		"COUNTRY_ID" : 14,
+		"NAME_RU" : "Нижняя Австрия",
+		"NAME_EN" : "Lower Austria",
+		"NAME_RO" : "Lower Austria"
+	},
+	{
+		"ID" : 4,
+		"COUNTRY_ID" : 14,
+		"NAME_RU" : "Штирия",
+		"NAME_EN" : "Styria",
+		"NAME_RO" : "Styria"
+	},
+	{
+		"ID" : 5,
+		"COUNTRY_ID" : 14,
+		"NAME_RU" : "Австрия",
+		"NAME_EN" : "Austria",
+		"NAME_RO" : "Austria"
+	},
+	{
+		"ID" : 6,
+		"COUNTRY_ID" : 20,
+		"NAME_RU" : "Брестская обл.",
+		"NAME_EN" : "Brest region",
+		"NAME_RO" : "Brest region"
+	},
+	{
+		"ID" : 7,
+		"COUNTRY_ID" : 20,
+		"NAME_RU" : "Витебская обл.",
+		"NAME_EN" : "Vitebsk region",
+		"NAME_RO" : "Vitebsk region"
+	},
+	{
+		"ID" : 8,
+		"COUNTRY_ID" : 20,
+		"NAME_RU" : "Гомельская обл.",
+		"NAME_EN" : "Gomel region",
+		"NAME_RO" : "Gomel region"
+	},
+	{
+		"ID" : 9,
+		"COUNTRY_ID" : 20,
+		"NAME_RU" : "Гродненская обл.",
+		"NAME_EN" : "Grodno region",
+		"NAME_RO" : "Grodno region"
+	},
+	{
+		"ID" : 10,
+		"COUNTRY_ID" : 20,
+		"NAME_RU" : "Минская обл.",
+		"NAME_EN" : "Minsk region",
+		"NAME_RO" : "Minsk region"
+	},
+	{
+		"ID" : 11,
+		"COUNTRY_ID" : 20,
+		"NAME_RU" : "Могилевская обл.",
+		"NAME_EN" : "Mogilev region",
+		"NAME_RO" : "Mogilev region"
+	},
+	{
+		"ID" : 12,
+		"COUNTRY_ID" : 21,
+		"NAME_RU" : "Антверпен",
+		"NAME_EN" : "Antwerpen",
+		"NAME_RO" : "Antwerpen"
+	},
+	{
+		"ID" : 13,
+		"COUNTRY_ID" : 21,
+		"NAME_RU" : "Брюссель",
+		"NAME_EN" : "Brussels",
+		"NAME_RO" : "Brussels"
+	},
+	{
+		"ID" : 14,
+		"COUNTRY_ID" : 21,
+		"NAME_RU" : "Восточная Фландрия",
+		"NAME_EN" : "East Flanders",
+		"NAME_RO" : "East Flanders"
+	},
+	{
+		"ID" : 15,
+		"COUNTRY_ID" : 21,
+		"NAME_RU" : "Западная Фландрия",
+		"NAME_EN" : "West Flanders",
+		"NAME_RO" : "West Flanders"
+	},
+	{
+		"ID" : 16,
+		"COUNTRY_ID" : 21,
+		"NAME_RU" : "Лимбург",
+		"NAME_EN" : "Limburg",
+		"NAME_RO" : "Limburg"
+	},
+	{
+		"ID" : 17,
+		"COUNTRY_ID" : 21,
+		"NAME_RU" : "Льеж",
+		"NAME_EN" : "Liège",
+		"NAME_RO" : "Liège"
+	},
+	{
+		"ID" : 18,
+		"COUNTRY_ID" : 21,
+		"NAME_RU" : "Эно",
+		"NAME_EN" : "Hainaut",
+		"NAME_RO" : "Hainaut"
+	},
+	{
+		"ID" : 19,
+		"COUNTRY_ID" : 21,
+		"NAME_RU" : "Бельгия",
+		"NAME_EN" : "Belgium",
+		"NAME_RO" : "Belgium"
+	},
+	{
+		"ID" : 20,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Бургас",
+		"NAME_EN" : "Burgas",
+		"NAME_RO" : "Burgas"
+	},
+	{
+		"ID" : 21,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Варна",
+		"NAME_EN" : "Varna",
+		"NAME_RO" : "Varna"
+	},
+	{
+		"ID" : 22,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Великотырново",
+		"NAME_EN" : "Velikotyrnovo",
+		"NAME_RO" : "Velikotyrnovo"
+	},
+	{
+		"ID" : 23,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Видин",
+		"NAME_EN" : "Vidin",
+		"NAME_RO" : "Vidin"
+	},
+	{
+		"ID" : 24,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Габрово",
+		"NAME_EN" : "Gabrovo",
+		"NAME_RO" : "Gabrovo"
+	},
+	{
+		"ID" : 25,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Пазарджик",
+		"NAME_EN" : "Pazardzhik",
+		"NAME_RO" : "Pazardzhik"
+	},
+	{
+		"ID" : 26,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Перник",
+		"NAME_EN" : "Pernik",
+		"NAME_RO" : "Pernik"
+	},
+	{
+		"ID" : 27,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Плевен",
+		"NAME_EN" : "Pleven",
+		"NAME_RO" : "Pleven"
+	},
+	{
+		"ID" : 28,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Пловдив",
+		"NAME_EN" : "Plovdiv",
+		"NAME_RO" : "Plovdiv"
+	},
+	{
+		"ID" : 29,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Русе",
+		"NAME_EN" : "Ruse",
+		"NAME_RO" : "Ruse"
+	},
+	{
+		"ID" : 30,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Силистра",
+		"NAME_EN" : "Silistra",
+		"NAME_RO" : "Silistra"
+	},
+	{
+		"ID" : 31,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Сливен",
+		"NAME_EN" : "Sliven",
+		"NAME_RO" : "Sliven"
+	},
+	{
+		"ID" : 32,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "София град",
+		"NAME_EN" : "Sofia Hailstones",
+		"NAME_RO" : "Sofia Hailstones"
+	},
+	{
+		"ID" : 33,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Стара Загора",
+		"NAME_EN" : "Stara Zagora",
+		"NAME_RO" : "Stara Zagora"
+	},
+	{
+		"ID" : 34,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Хасково",
+		"NAME_EN" : "Haskovo",
+		"NAME_RO" : "Haskovo"
+	},
+	{
+		"ID" : 35,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Шумен",
+		"NAME_EN" : "Shumen",
+		"NAME_RO" : "Shumen"
+	},
+	{
+		"ID" : 36,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Ямбол",
+		"NAME_EN" : "Yambol",
+		"NAME_RO" : "Yambol"
+	},
+	{
+		"ID" : 37,
+		"COUNTRY_ID" : 37,
+		"NAME_RU" : "Болгария",
+		"NAME_EN" : "Bulgaria",
+		"NAME_RO" : "Bulgaria"
+	},
+	{
+		"ID" : 38,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Bedfordshire",
+		"NAME_EN" : "Bedfordshire",
+		"NAME_RO" : "Bedfordshire"
+	},
+	{
+		"ID" : 39,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Berkshire",
+		"NAME_EN" : "Berkshire",
+		"NAME_RO" : "Berkshire"
+	},
+	{
+		"ID" : 40,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Buckinghamshire",
+		"NAME_EN" : "Buckinghamshire",
+		"NAME_RO" : "Buckinghamshire"
+	},
+	{
+		"ID" : 41,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Cambridgeshire",
+		"NAME_EN" : "Cambridgeshire",
+		"NAME_RO" : "Cambridgeshire"
+	},
+	{
+		"ID" : 42,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Cheshire",
+		"NAME_EN" : "Cheshire",
+		"NAME_RO" : "Cheshire"
+	},
+	{
+		"ID" : 43,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "City of Bristol",
+		"NAME_EN" : "City of Bristol",
+		"NAME_RO" : "City of Bristol"
+	},
+	{
+		"ID" : 44,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Яс-Надькун-Сольнок",
+		"NAME_EN" : "Jasz-Nagykun-Szolnok",
+		"NAME_RO" : "Jasz-Nagykun-Szolnok"
+	},
+	{
+		"ID" : 45,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Баранья",
+		"NAME_EN" : "Baranya",
+		"NAME_RO" : "Baranya"
+	},
+	{
+		"ID" : 46,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Бач-Кишкун",
+		"NAME_EN" : "Bacs-Kiskun",
+		"NAME_RO" : "Bacs-Kiskun"
+	},
+	{
+		"ID" : 47,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Бекеш",
+		"NAME_EN" : "Békés",
+		"NAME_RO" : "Békés"
+	},
+	{
+		"ID" : 48,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Боршод-Абауй-Земплен",
+		"NAME_EN" : "Borsod-Abaúj-Zemplén",
+		"NAME_RO" : "Borsod-Abaúj-Zemplén"
+	},
+	{
+		"ID" : 49,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Будапешт",
+		"NAME_EN" : "Budapest",
+		"NAME_RO" : "Budapest"
+	},
+	{
+		"ID" : 50,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Ваш",
+		"NAME_EN" : "Vas",
+		"NAME_RO" : "Vas"
+	},
+	{
+		"ID" : 51,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Веспрем",
+		"NAME_EN" : "Veszprem",
+		"NAME_RO" : "Veszprem"
+	},
+	{
+		"ID" : 52,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Дьёр-Мо́шон-Шо́прон",
+		"NAME_EN" : "Győr-Moson-Sopron",
+		"NAME_RO" : "Győr-Moson-Sopron"
+	},
+	{
+		"ID" : 53,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Зала",
+		"NAME_EN" : "Zala",
+		"NAME_RO" : "Zala"
+	},
+	{
+		"ID" : 54,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Комаром-Эстергом",
+		"NAME_EN" : "Komárom-Esztergom",
+		"NAME_RO" : "Komárom-Esztergom"
+	},
+	{
+		"ID" : 55,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Ноград",
+		"NAME_EN" : "Nograd",
+		"NAME_RO" : "Nograd"
+	},
+	{
+		"ID" : 56,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Пешт",
+		"NAME_EN" : "Pest",
+		"NAME_RO" : "Pest"
+	},
+	{
+		"ID" : 57,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Сабольч-Сатмар",
+		"NAME_EN" : "Szabolcs-Szatmár",
+		"NAME_RO" : "Szabolcs-Szatmár"
+	},
+	{
+		"ID" : 58,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Фейер",
+		"NAME_EN" : "Fejer",
+		"NAME_RO" : "Fejer"
+	},
+	{
+		"ID" : 59,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Хайду-Бихар",
+		"NAME_EN" : "Hajdu-Bihar",
+		"NAME_RO" : "Hajdu-Bihar"
+	},
+	{
+		"ID" : 60,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Хевеш",
+		"NAME_EN" : "Heves",
+		"NAME_RO" : "Heves"
+	},
+	{
+		"ID" : 61,
+		"COUNTRY_ID" : 102,
+		"NAME_RU" : "Чонград",
+		"NAME_EN" : "Csongrád",
+		"NAME_RO" : "Csongrád"
+	},
+	{
+		"ID" : 62,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Берлин",
+		"NAME_EN" : "Berlin",
+		"NAME_RO" : "Berlin"
+	},
+	{
+		"ID" : 63,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Бра́нденбург",
+		"NAME_EN" : "Brandenburg",
+		"NAME_RO" : "Brandenburg"
+	},
+	{
+		"ID" : 64,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Ме́кленбург-Пере́дняя Помера́ния",
+		"NAME_EN" : "Mecklenburg-Vorpommern",
+		"NAME_RO" : "Mecklenburg-Vorpommern"
+	},
+	{
+		"ID" : 65,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Саксо́ния",
+		"NAME_EN" : "Sachsen",
+		"NAME_RO" : "Sachsen"
+	},
+	{
+		"ID" : 66,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Саксо́ния-А́нхальт",
+		"NAME_EN" : "Sachsen-Anhalt",
+		"NAME_RO" : "Sachsen-Anhalt"
+	},
+	{
+		"ID" : 67,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Тюрингия",
+		"NAME_EN" : "Thuringen",
+		"NAME_RO" : "Thuringen"
+	},
+	{
+		"ID" : 68,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Бавария",
+		"NAME_EN" : "Bayern",
+		"NAME_RO" : "Bayern"
+	},
+	{
+		"ID" : 69,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Баден-Вюртемберг",
+		"NAME_EN" : "Baden-Wurttemberg",
+		"NAME_RO" : "Baden-Wurttemberg"
+	},
+	{
+		"ID" : 70,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Бремен",
+		"NAME_EN" : "Bremen",
+		"NAME_RO" : "Bremen"
+	},
+	{
+		"ID" : 71,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Гамбург",
+		"NAME_EN" : "Hamburg",
+		"NAME_RO" : "Hamburg"
+	},
+	{
+		"ID" : 72,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Гессен",
+		"NAME_EN" : "Hessen",
+		"NAME_RO" : "Hessen"
+	},
+	{
+		"ID" : 73,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Нижняя Саксония",
+		"NAME_EN" : "Niedersachsen",
+		"NAME_RO" : "Niedersachsen"
+	},
+	{
+		"ID" : 74,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Рейнланд-Пфальц",
+		"NAME_EN" : "Rhineland-Palatinate",
+		"NAME_RO" : "Rhineland-Palatinate"
+	},
+	{
+		"ID" : 75,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Саар",
+		"NAME_EN" : "Saarland",
+		"NAME_RO" : "Saarland"
+	},
+	{
+		"ID" : 76,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Северный Рейн-Вестфалия",
+		"NAME_EN" : "North Rhine-Westphalia",
+		"NAME_RO" : "North Rhine-Westphalia"
+	},
+	{
+		"ID" : 77,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Шлезвиг-Гольштейн",
+		"NAME_EN" : "Schleswig-Holstein",
+		"NAME_RO" : "Schleswig-Holstein"
+	},
+	{
+		"ID" : 78,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Германия",
+		"NAME_EN" : "Germany",
+		"NAME_RO" : "Germany"
+	},
+	{
+		"ID" : 79,
+		"COUNTRY_ID" : 84,
+		"NAME_RU" : "Саарлэнд",
+		"NAME_EN" : "Saarlend",
+		"NAME_RO" : "Saarlend"
+	},
+	{
+		"ID" : 80,
+		"COUNTRY_ID" : 87,
+		"NAME_RU" : "Фессалии и Центральной Греции",
+		"NAME_EN" : "Thessaly and Central Greece",
+		"NAME_RO" : "Thessaly and Central Greece"
+	},
+	{
+		"ID" : 81,
+		"COUNTRY_ID" : 87,
+		"NAME_RU" : "Аттики",
+		"NAME_EN" : "Attiki",
+		"NAME_RO" : "Attiki"
+	},
+	{
+		"ID" : 82,
+		"COUNTRY_ID" : 87,
+		"NAME_RU" : "Эпира и Западной Македонии",
+		"NAME_EN" : "Epirus and Western Macedonia",
+		"NAME_RO" : "Epirus and Western Macedonia"
+	},
+	{
+		"ID" : 83,
+		"COUNTRY_ID" : 87,
+		"NAME_RU" : "Крита",
+		"NAME_EN" : "Crete",
+		"NAME_RO" : "Crete"
+	},
+	{
+		"ID" : 84,
+		"COUNTRY_ID" : 87,
+		"NAME_RU" : "Македонии и Фракии",
+		"NAME_EN" : "Macedonia and Thrace",
+		"NAME_RO" : "Macedonia and Thrace"
+	},
+	{
+		"ID" : 85,
+		"COUNTRY_ID" : 87,
+		"NAME_RU" : "Корфу",
+		"NAME_EN" : "Corfu",
+		"NAME_RO" : "Corfu"
+	},
+	{
+		"ID" : 86,
+		"COUNTRY_ID" : 87,
+		"NAME_RU" : "Пелопоннеса, Западной Греции и Ионии",
+		"NAME_EN" : "Peloponnese, Western Greece and Ionia",
+		"NAME_RO" : "Peloponnese, Western Greece and Ionia"
+	},
+	{
+		"ID" : 87,
+		"COUNTRY_ID" : 87,
+		"NAME_RU" : "Эгейские острова",
+		"NAME_EN" : "Aegean Islands",
+		"NAME_RO" : "Aegean Islands"
+	},
+	{
+		"ID" : 88,
+		"COUNTRY_ID" : 62,
+		"NAME_RU" : "Южная Дания",
+		"NAME_EN" : "Syddanmark",
+		"NAME_RO" : "Syddanmark"
+	},
+	{
+		"ID" : 89,
+		"COUNTRY_ID" : 62,
+		"NAME_RU" : "Ceверная Ютландия",
+		"NAME_EN" : "North Jutland",
+		"NAME_RO" : "North Jutland"
+	},
+	{
+		"ID" : 90,
+		"COUNTRY_ID" : 62,
+		"NAME_RU" : "Хельсингор",
+		"NAME_EN" : "Helsingor",
+		"NAME_RO" : "Helsingor"
+	},
+	{
+		"ID" : 91,
+		"COUNTRY_ID" : 62,
+		"NAME_RU" : "Копенгаген",
+		"NAME_EN" : "Copenhagen",
+		"NAME_RO" : "Copenhagen"
+	},
+	{
+		"ID" : 92,
+		"COUNTRY_ID" : 62,
+		"NAME_RU" : "Зеландия",
+		"NAME_EN" : "Zealand",
+		"NAME_RO" : "Zealand"
+	},
+	{
+		"ID" : 93,
+		"COUNTRY_ID" : 62,
+		"NAME_RU" : "Центральная Ютландия",
+		"NAME_EN" : "Central Jutland",
+		"NAME_RO" : "Central Jutland"
+	},
+	{
+		"ID" : 94,
+		"COUNTRY_ID" : 109,
+		"NAME_RU" : "Корк",
+		"NAME_EN" : "Cork",
+		"NAME_RO" : "Cork"
+	},
+	{
+		"ID" : 95,
+		"COUNTRY_ID" : 109,
+		"NAME_RU" : "Дублин",
+		"NAME_EN" : "Dublin",
+		"NAME_RO" : "Dublin"
+	},
+	{
+		"ID" : 96,
+		"COUNTRY_ID" : 109,
+		"NAME_RU" : "Лимерик",
+		"NAME_EN" : "Limerick",
+		"NAME_RO" : "Limerick"
+	},
+	{
+		"ID" : 97,
+		"COUNTRY_ID" : 109,
+		"NAME_RU" : "Уотерфорд",
+		"NAME_EN" : "Waterford",
+		"NAME_RO" : "Waterford"
+	},
+	{
+		"ID" : 98,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Канта́брия",
+		"NAME_EN" : "Cantabria",
+		"NAME_RO" : "Cantabria"
+	},
+	{
+		"ID" : 99,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Се́ута",
+		"NAME_EN" : "Ceuta",
+		"NAME_RO" : "Ceuta"
+	},
+	{
+		"ID" : 100,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Грана́да",
+		"NAME_EN" : "Granada",
+		"NAME_RO" : "Granada"
+	},
+	{
+		"ID" : 101,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Ла-Рио́ха",
+		"NAME_EN" : "La Rioja",
+		"NAME_RO" : "La Rioja"
+	},
+	{
+		"ID" : 102,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Саламанка",
+		"NAME_EN" : "Salamanca",
+		"NAME_RO" : "Salamanca"
+	},
+	{
+		"ID" : 103,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Алава",
+		"NAME_EN" : "Alava",
+		"NAME_RO" : "Alava"
+	},
+	{
+		"ID" : 104,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Аликанте",
+		"NAME_EN" : "Alicante",
+		"NAME_RO" : "Alicante"
+	},
+	{
+		"ID" : 105,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Альбасете",
+		"NAME_EN" : "Albacete",
+		"NAME_RO" : "Albacete"
+	},
+	{
+		"ID" : 106,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Альмерия",
+		"NAME_EN" : "Almeria",
+		"NAME_RO" : "Almeria"
+	},
+	{
+		"ID" : 107,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Астурия",
+		"NAME_EN" : "Asturias",
+		"NAME_RO" : "Asturias"
+	},
+	{
+		"ID" : 108,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Барселона",
+		"NAME_EN" : "Barcelona",
+		"NAME_RO" : "Barcelona"
+	},
+	{
+		"ID" : 109,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Бискайя",
+		"NAME_EN" : "Vizcaya",
+		"NAME_RO" : "Vizcaya"
+	},
+	{
+		"ID" : 110,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Бургос",
+		"NAME_EN" : "Burgos",
+		"NAME_RO" : "Burgos"
+	},
+	{
+		"ID" : 111,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Валенсия",
+		"NAME_EN" : "Valencia",
+		"NAME_RO" : "Valencia"
+	},
+	{
+		"ID" : 112,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Кастилия и Леон",
+		"NAME_EN" : "Castile and Leon",
+		"NAME_RO" : "Castile and Leon"
+	},
+	{
+		"ID" : 113,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Кадис",
+		"NAME_EN" : "Кадис",
+		"NAME_RO" : "Кадис"
+	},
+	{
+		"ID" : 114,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Касерес",
+		"NAME_EN" : "Caceres",
+		"NAME_RO" : "Caceres"
+	},
+	{
+		"ID" : 115,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Кордова",
+		"NAME_EN" : "Cordova",
+		"NAME_RO" : "Cordova"
+	},
+	{
+		"ID" : 116,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Лас-Пальмас",
+		"NAME_EN" : "Las Palmas",
+		"NAME_RO" : "Las Palmas"
+	},
+	{
+		"ID" : 117,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Леон",
+		"NAME_EN" : "Leon",
+		"NAME_RO" : "Leon"
+	},
+	{
+		"ID" : 118,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Лерида",
+		"NAME_EN" : "Lleida",
+		"NAME_RO" : "Lleida"
+	},
+	{
+		"ID" : 119,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Луго",
+		"NAME_EN" : "Lugo",
+		"NAME_RO" : "Lugo"
+	},
+	{
+		"ID" : 120,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Мадрид",
+		"NAME_EN" : "Madrid",
+		"NAME_RO" : "Madrid"
+	},
+	{
+		"ID" : 121,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Малага",
+		"NAME_EN" : "Malaga",
+		"NAME_RO" : "Malaga"
+	},
+	{
+		"ID" : 122,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Мурсия",
+		"NAME_EN" : "Murcia",
+		"NAME_RO" : "Murcia"
+	},
+	{
+		"ID" : 123,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Острова Балеарские",
+		"NAME_EN" : "Balearic Islands",
+		"NAME_RO" : "Balearic Islands"
+	},
+	{
+		"ID" : 124,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Паленсия",
+		"NAME_EN" : "Palencia",
+		"NAME_RO" : "Palencia"
+	},
+	{
+		"ID" : 125,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Самора",
+		"NAME_EN" : "Zamora",
+		"NAME_RO" : "Zamora"
+	},
+	{
+		"ID" : 126,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Канарские острова",
+		"NAME_EN" : "Canary Islands",
+		"NAME_RO" : "Canary Islands"
+	},
+	{
+		"ID" : 127,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Арагон",
+		"NAME_EN" : "Aragon",
+		"NAME_RO" : "Aragon"
+	},
+	{
+		"ID" : 128,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Андалусия",
+		"NAME_EN" : "Andalusia",
+		"NAME_RO" : "Andalusia"
+	},
+	{
+		"ID" : 129,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Сьюдад-Реаль",
+		"NAME_EN" : "Ciudad Real",
+		"NAME_RO" : "Ciudad Real"
+	},
+	{
+		"ID" : 130,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Хаэн",
+		"NAME_EN" : "Jaen",
+		"NAME_RO" : "Jaen"
+	},
+	{
+		"ID" : 131,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Испания",
+		"NAME_EN" : "Spain",
+		"NAME_RO" : "Spain"
+	},
+	{
+		"ID" : 132,
+		"COUNTRY_ID" : 212,
+		"NAME_RU" : "Жиро́на",
+		"NAME_EN" : "Gerona",
+		"NAME_RO" : "Gerona"
+	},
+	{
+		"ID" : 133,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Абруцци",
+		"NAME_EN" : "Abruzzo",
+		"NAME_RO" : "Abruzzo"
+	},
+	{
+		"ID" : 134,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Апулия",
+		"NAME_EN" : "Apulia",
+		"NAME_RO" : "Apulia"
+	},
+	{
+		"ID" : 135,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Венеция",
+		"NAME_EN" : "Venice",
+		"NAME_RO" : "Venice"
+	},
+	{
+		"ID" : 136,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Калабрия",
+		"NAME_EN" : "Calabria",
+		"NAME_RO" : "Calabria"
+	},
+	{
+		"ID" : 137,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Кампанья",
+		"NAME_EN" : "Campania",
+		"NAME_RO" : "Campania"
+	},
+	{
+		"ID" : 138,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Лацио",
+		"NAME_EN" : "Lazio",
+		"NAME_RO" : "Lazio"
+	},
+	{
+		"ID" : 139,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Лигурия",
+		"NAME_EN" : "Liguria",
+		"NAME_RO" : "Liguria"
+	},
+	{
+		"ID" : 140,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Ломбардия",
+		"NAME_EN" : "Lombardy",
+		"NAME_RO" : "Lombardy"
+	},
+	{
+		"ID" : 141,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Марке",
+		"NAME_EN" : "Marche",
+		"NAME_RO" : "Marche"
+	},
+	{
+		"ID" : 142,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Сардиния",
+		"NAME_EN" : "Sardinia",
+		"NAME_RO" : "Sardinia"
+	},
+	{
+		"ID" : 143,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Сицилия",
+		"NAME_EN" : "Sicily",
+		"NAME_RO" : "Sicily"
+	},
+	{
+		"ID" : 144,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Пьемонт",
+		"NAME_EN" : "Piedmont",
+		"NAME_RO" : "Piedmont"
+	},
+	{
+		"ID" : 145,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Тоскана",
+		"NAME_EN" : "Tuscany",
+		"NAME_RO" : "Tuscany"
+	},
+	{
+		"ID" : 146,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Трентино-Альто-Адидже",
+		"NAME_EN" : "Trentino-Alto Adige",
+		"NAME_RO" : "Trentino-Alto Adige"
+	},
+	{
+		"ID" : 147,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Умбрия",
+		"NAME_EN" : "Umbria",
+		"NAME_RO" : "Umbria"
+	},
+	{
+		"ID" : 148,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Фриули-Венеция-Джулия",
+		"NAME_EN" : "Friuli-Venezia Giulia",
+		"NAME_RO" : "Friuli-Venezia Giulia"
+	},
+	{
+		"ID" : 149,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Эмилия-Романья",
+		"NAME_EN" : "Emilia-Romagna",
+		"NAME_RO" : "Emilia-Romagna"
+	},
+	{
+		"ID" : 150,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "Италия",
+		"NAME_EN" : "Italy",
+		"NAME_RO" : "Italy"
+	},
+	{
+		"ID" : 151,
+		"COUNTRY_ID" : 112,
+		"NAME_RU" : "о. Сан-Джорджо Маджоре",
+		"NAME_EN" : "Island of San Giorgio Maggiore",
+		"NAME_RO" : "Island of San Giorgio Maggiore"
+	},
+	{
+		"ID" : 152,
+		"COUNTRY_ID" : 60,
+		"NAME_RU" : "Турецкая Республика Северного Кипра",
+		"NAME_EN" : "Turkish Republic of Northern Cyprus",
+		"NAME_RO" : "Turkish Republic of Northern Cyprus"
+	},
+	{
+		"ID" : 153,
+		"COUNTRY_ID" : 130,
+		"NAME_RU" : "Люксембург",
+		"NAME_EN" : "Luxembourg",
+		"NAME_RO" : "Luxembourg"
+	},
+	{
+		"ID" : 154,
+		"COUNTRY_ID" : 130,
+		"NAME_RU" : "Дикирх",
+		"NAME_EN" : "Diekirch",
+		"NAME_RO" : "Diekirch"
+	},
+	{
+		"ID" : 155,
+		"COUNTRY_ID" : 130,
+		"NAME_RU" : "Гревенмахер",
+		"NAME_EN" : "Grevenmacher",
+		"NAME_RO" : "Grevenmacher"
+	},
+	{
+		"ID" : 156,
+		"COUNTRY_ID" : 147,
+		"NAME_RU" : "Монако",
+		"NAME_EN" : "Monaco",
+		"NAME_RO" : "Monaco"
+	},
+	{
+		"ID" : 157,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Бускеруд",
+		"NAME_EN" : "Buskerud",
+		"NAME_RO" : "Buskerud"
+	},
+	{
+		"ID" : 158,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Вестагдер",
+		"NAME_EN" : "Vestagder",
+		"NAME_RO" : "Vestagder"
+	},
+	{
+		"ID" : 159,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Нурлан",
+		"NAME_EN" : "Nurlan",
+		"NAME_RO" : "Nurlan"
+	},
+	{
+		"ID" : 160,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Осло",
+		"NAME_EN" : "Oslo",
+		"NAME_RO" : "Oslo"
+	},
+	{
+		"ID" : 161,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Ругаланн",
+		"NAME_EN" : "Rogaland",
+		"NAME_RO" : "Rogaland"
+	},
+	{
+		"ID" : 162,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Сёр-Трённелаг",
+		"NAME_EN" : "Sør-Trёnnelag",
+		"NAME_RO" : "Sør-Trёnnelag"
+	},
+	{
+		"ID" : 163,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Телемарк",
+		"NAME_EN" : "Telemark",
+		"NAME_RO" : "Telemark"
+	},
+	{
+		"ID" : 164,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Нордланд",
+		"NAME_EN" : "Nordland",
+		"NAME_RO" : "Nordland"
+	},
+	{
+		"ID" : 165,
+		"COUNTRY_ID" : 167,
+		"NAME_RU" : "Ромсдал",
+		"NAME_EN" : "Romsdal",
+		"NAME_RO" : "Romsdal"
+	},
+	{
+		"ID" : 166,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Нижнесилезское",
+		"NAME_EN" : "Dolnoslaskie",
+		"NAME_RO" : "Dolnoslaskie"
+	},
+	{
+		"ID" : 167,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Куявско-Поморское",
+		"NAME_EN" : "Kujawsko-Pomorskie",
+		"NAME_RO" : "Kujawsko-Pomorskie"
+	},
+	{
+		"ID" : 168,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Любуское",
+		"NAME_EN" : "Lubuskie",
+		"NAME_RO" : "Lubuskie"
+	},
+	{
+		"ID" : 169,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Малопольское",
+		"NAME_EN" : "Malopolskie",
+		"NAME_RO" : "Malopolskie"
+	},
+	{
+		"ID" : 170,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Мазовецкое",
+		"NAME_EN" : "Mazowieckie",
+		"NAME_RO" : "Mazowieckie"
+	},
+	{
+		"ID" : 171,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Подкарпатское",
+		"NAME_EN" : "Podkarpackie",
+		"NAME_RO" : "Podkarpackie"
+	},
+	{
+		"ID" : 172,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Подляское",
+		"NAME_EN" : "Podlaskie",
+		"NAME_RO" : "Podlaskie"
+	},
+	{
+		"ID" : 173,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Поморское",
+		"NAME_EN" : "Pomorskie",
+		"NAME_RO" : "Pomorskie"
+	},
+	{
+		"ID" : 174,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Силезское",
+		"NAME_EN" : "Slaskie",
+		"NAME_RO" : "Slaskie"
+	},
+	{
+		"ID" : 175,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Свентокшиское",
+		"NAME_EN" : "Swietokrzyskie",
+		"NAME_RO" : "Swietokrzyskie"
+	},
+	{
+		"ID" : 176,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Варминьско-Мазурское",
+		"NAME_EN" : "Warminsko-Mazurskie",
+		"NAME_RO" : "Warminsko-Mazurskie"
+	},
+	{
+		"ID" : 177,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Великопольское",
+		"NAME_EN" : "Wielkopolskie",
+		"NAME_RO" : "Wielkopolskie"
+	},
+	{
+		"ID" : 178,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Западно-Поморское",
+		"NAME_EN" : "Zachodnio-Pomorskie",
+		"NAME_RO" : "Zachodnio-Pomorskie"
+	},
+	{
+		"ID" : 179,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Лодзинское",
+		"NAME_EN" : "Lodzkie",
+		"NAME_RO" : "Lodzkie"
+	},
+	{
+		"ID" : 180,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Люблинское",
+		"NAME_EN" : "Lubelskie",
+		"NAME_RO" : "Lubelskie"
+	},
+	{
+		"ID" : 181,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Опольское",
+		"NAME_EN" : "Opolskie",
+		"NAME_RO" : "Opolskie"
+	},
+	{
+		"ID" : 182,
+		"COUNTRY_ID" : 178,
+		"NAME_RU" : "Польша",
+		"NAME_EN" : "Poland",
+		"NAME_RO" : "Poland"
+	},
+	{
+		"ID" : 183,
+		"COUNTRY_ID" : 204,
+		"NAME_RU" : "Трнавский край",
+		"NAME_EN" : "Trnavsky",
+		"NAME_RO" : "Trnavsky"
+	},
+	{
+		"ID" : 184,
+		"COUNTRY_ID" : 204,
+		"NAME_RU" : "Братиславский край",
+		"NAME_EN" : "Bratislava region",
+		"NAME_RO" : "Bratislava region"
+	},
+	{
+		"ID" : 185,
+		"COUNTRY_ID" : 204,
+		"NAME_RU" : "Жилинский край",
+		"NAME_EN" : "Žilina region",
+		"NAME_RO" : "Žilina region"
+	},
+	{
+		"ID" : 186,
+		"COUNTRY_ID" : 205,
+		"NAME_RU" : "Словения",
+		"NAME_EN" : "Slovenia",
+		"NAME_RO" : "Slovenia"
+	},
+	{
+		"ID" : 187,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Бартын",
+		"NAME_EN" : "Bartin",
+		"NAME_RO" : "Bartin"
+	},
+	{
+		"ID" : 188,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Байбурт",
+		"NAME_EN" : "Bayburt",
+		"NAME_RO" : "Bayburt"
+	},
+	{
+		"ID" : 189,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Карабюк",
+		"NAME_EN" : "Karabuk",
+		"NAME_RO" : "Karabuk"
+	},
+	{
+		"ID" : 190,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Адана",
+		"NAME_EN" : "Adana",
+		"NAME_RO" : "Adana"
+	},
+	{
+		"ID" : 191,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Айдын",
+		"NAME_EN" : "Aydin",
+		"NAME_RO" : "Aydin"
+	},
+	{
+		"ID" : 192,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Амасья",
+		"NAME_EN" : "Amasya",
+		"NAME_RO" : "Amasya"
+	},
+	{
+		"ID" : 193,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Анкара",
+		"NAME_EN" : "Ankara",
+		"NAME_RO" : "Ankara"
+	},
+	{
+		"ID" : 194,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Анталья",
+		"NAME_EN" : "Antalya",
+		"NAME_RO" : "Antalya"
+	},
+	{
+		"ID" : 195,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Артвин",
+		"NAME_EN" : "Artvin",
+		"NAME_RO" : "Artvin"
+	},
+	{
+		"ID" : 196,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Афьон",
+		"NAME_EN" : "Afyon",
+		"NAME_RO" : "Afyon"
+	},
+	{
+		"ID" : 197,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Балыкесир",
+		"NAME_EN" : "Balikesir",
+		"NAME_RO" : "Balikesir"
+	},
+	{
+		"ID" : 198,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Биледжик",
+		"NAME_EN" : "Bilecik",
+		"NAME_RO" : "Bilecik"
+	},
+	{
+		"ID" : 199,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Бурса",
+		"NAME_EN" : "Bursa",
+		"NAME_RO" : "Bursa"
+	},
+	{
+		"ID" : 200,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Газиантеп",
+		"NAME_EN" : "Gaziantep",
+		"NAME_RO" : "Gaziantep"
+	},
+	{
+		"ID" : 201,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Денизли",
+		"NAME_EN" : "Denizli",
+		"NAME_RO" : "Denizli"
+	},
+	{
+		"ID" : 202,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Измир",
+		"NAME_EN" : "Izmir",
+		"NAME_RO" : "Izmir"
+	},
+	{
+		"ID" : 203,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Испарта",
+		"NAME_EN" : "Isparta",
+		"NAME_RO" : "Isparta"
+	},
+	{
+		"ID" : 204,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Ичель",
+		"NAME_EN" : "Icel",
+		"NAME_RO" : "Icel"
+	},
+	{
+		"ID" : 205,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Кайсери",
+		"NAME_EN" : "Kayseri",
+		"NAME_RO" : "Kayseri"
+	},
+	{
+		"ID" : 206,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Карс",
+		"NAME_EN" : "Kars",
+		"NAME_RO" : "Kars"
+	},
+	{
+		"ID" : 207,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Коджаэли",
+		"NAME_EN" : "Kocaeli",
+		"NAME_RO" : "Kocaeli"
+	},
+	{
+		"ID" : 208,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Конья",
+		"NAME_EN" : "Konya",
+		"NAME_RO" : "Konya"
+	},
+	{
+		"ID" : 209,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Кыркларели",
+		"NAME_EN" : "Kirklareli",
+		"NAME_RO" : "Kirklareli"
+	},
+	{
+		"ID" : 210,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Кютахья",
+		"NAME_EN" : "Kutahya",
+		"NAME_RO" : "Kutahya"
+	},
+	{
+		"ID" : 211,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Малатья",
+		"NAME_EN" : "Malatya",
+		"NAME_RO" : "Malatya"
+	},
+	{
+		"ID" : 212,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Маниса",
+		"NAME_EN" : "Manisa",
+		"NAME_RO" : "Manisa"
+	},
+	{
+		"ID" : 213,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Сакарья",
+		"NAME_EN" : "Sakarya",
+		"NAME_RO" : "Sakarya"
+	},
+	{
+		"ID" : 214,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Самсун",
+		"NAME_EN" : "Samsun",
+		"NAME_RO" : "Samsun"
+	},
+	{
+		"ID" : 215,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Сивас",
+		"NAME_EN" : "Sivas",
+		"NAME_RO" : "Sivas"
+	},
+	{
+		"ID" : 216,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Стамбул",
+		"NAME_EN" : "Istanbul",
+		"NAME_RO" : "Istanbul"
+	},
+	{
+		"ID" : 217,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Трабзон",
+		"NAME_EN" : "Trabzon",
+		"NAME_RO" : "Trabzon"
+	},
+	{
+		"ID" : 218,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Чорум",
+		"NAME_EN" : "Corum",
+		"NAME_RO" : "Corum"
+	},
+	{
+		"ID" : 219,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Эдирне",
+		"NAME_EN" : "Edirne",
+		"NAME_RO" : "Edirne"
+	},
+	{
+		"ID" : 220,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Элязыг",
+		"NAME_EN" : "Elazig",
+		"NAME_RO" : "Elazig"
+	},
+	{
+		"ID" : 221,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Эрзинджан",
+		"NAME_EN" : "Erzincan",
+		"NAME_RO" : "Erzincan"
+	},
+	{
+		"ID" : 222,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Эрзурум",
+		"NAME_EN" : "Erzurum",
+		"NAME_RO" : "Erzurum"
+	},
+	{
+		"ID" : 223,
+		"COUNTRY_ID" : 231,
+		"NAME_RU" : "Эскишехир",
+		"NAME_EN" : "Eskisehir",
+		"NAME_RO" : "Eskisehir"
+	},
+	{
+		"ID" : 224,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Винницкая обл.",
+		"NAME_EN" : "Vinnytsia region",
+		"NAME_RO" : "Vinnytsia region"
+	},
+	{
+		"ID" : 225,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Волынская обл.",
+		"NAME_EN" : "Volynsk region",
+		"NAME_RO" : "Volynsk region"
+	},
+	{
+		"ID" : 226,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Днепропетровская обл.",
+		"NAME_EN" : "Dnipropetrovsk region",
+		"NAME_RO" : "Dnipropetrovsk region"
+	},
+	{
+		"ID" : 227,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Донецкая обл.",
+		"NAME_EN" : "Donetsk region",
+		"NAME_RO" : "Donetsk region"
+	},
+	{
+		"ID" : 228,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Житомирская обл.",
+		"NAME_EN" : "Zhytomyr region",
+		"NAME_RO" : "Zhytomyr region"
+	},
+	{
+		"ID" : 229,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Закарпатская обл.",
+		"NAME_EN" : "Zakarpatsk region",
+		"NAME_RO" : "Zakarpatsk region"
+	},
+	{
+		"ID" : 230,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Запорожская обл.",
+		"NAME_EN" : "Zaporozhye region",
+		"NAME_RO" : "Zaporozhye region"
+	},
+	{
+		"ID" : 231,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Ивано-Франковская обл.",
+		"NAME_EN" : "Ivano-Frankovsk region",
+		"NAME_RO" : "Ivano-Frankovsk region"
+	},
+	{
+		"ID" : 232,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Киевская обл.",
+		"NAME_EN" : "Kiev region",
+		"NAME_RO" : "Kiev region"
+	},
+	{
+		"ID" : 233,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Кировоградская обл.",
+		"NAME_EN" : "Kirovograd",
+		"NAME_RO" : "Kirovograd"
+	},
+	{
+		"ID" : 234,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Крым Автономная Республика",
+		"NAME_EN" : "Autonomous Republic of Crimea",
+		"NAME_RO" : "Autonomous Republic of Crimea"
+	},
+	{
+		"ID" : 235,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Луганская обл.",
+		"NAME_EN" : "Lugansk region",
+		"NAME_RO" : "Lugansk region"
+	},
+	{
+		"ID" : 236,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Львовская обл.",
+		"NAME_EN" : "Lviv region",
+		"NAME_RO" : "Lviv region"
+	},
+	{
+		"ID" : 237,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Николаевская обл.",
+		"NAME_EN" : "Mykolaiv region",
+		"NAME_RO" : "Mykolaiv region"
+	},
+	{
+		"ID" : 238,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Одесская обл.",
+		"NAME_EN" : "Odessa region",
+		"NAME_RO" : "Odessa region"
+	},
+	{
+		"ID" : 239,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Полтавская обл.",
+		"NAME_EN" : "Poltava region",
+		"NAME_RO" : "Poltava region"
+	},
+	{
+		"ID" : 240,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Ровенская обл.",
+		"NAME_EN" : "Rivne region",
+		"NAME_RO" : "Rivne region"
+	},
+	{
+		"ID" : 241,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Сумская обл.",
+		"NAME_EN" : "Sumy region",
+		"NAME_RO" : "Sumy region"
+	},
+	{
+		"ID" : 242,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Тернопольская обл.",
+		"NAME_EN" : "Ternopil region",
+		"NAME_RO" : "Ternopil region"
+	},
+	{
+		"ID" : 243,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Харьковская обл.",
+		"NAME_EN" : "Kharkiv region",
+		"NAME_RO" : "Kharkiv region"
+	},
+	{
+		"ID" : 244,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Херсонская обл.",
+		"NAME_EN" : "Kherson region",
+		"NAME_RO" : "Kherson region"
+	},
+	{
+		"ID" : 245,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Хмельницкая обл.",
+		"NAME_EN" : "Khmelnytsky region",
+		"NAME_RO" : "Khmelnytsky region"
+	},
+	{
+		"ID" : 246,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Черкасская обл.",
+		"NAME_EN" : "Cherkasy region",
+		"NAME_RO" : "Cherkasy region"
+	},
+	{
+		"ID" : 247,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Черниговская обл.",
+		"NAME_EN" : "Chernihiv region",
+		"NAME_RO" : "Chernihiv region"
+	},
+	{
+		"ID" : 248,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Черновицкая обл.",
+		"NAME_EN" : "Chernovtsy region",
+		"NAME_RO" : "Chernovtsy region"
+	},
+	{
+		"ID" : 249,
+		"COUNTRY_ID" : 236,
+		"NAME_RU" : "Украина",
+		"NAME_EN" : "Ukraine",
+		"NAME_RO" : "Ukraine"
+	},
+	{
+		"ID" : 250,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Южная Карелия",
+		"NAME_EN" : "Etela-Karjala",
+		"NAME_RO" : "Etela-Karjala"
+	},
+	{
+		"ID" : 251,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Пяйят-Хяме",
+		"NAME_EN" : "Paijat-Hame",
+		"NAME_RO" : "Paijat-Hame"
+	},
+	{
+		"ID" : 252,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Остроботния",
+		"NAME_EN" : "Pohjanmaa",
+		"NAME_RO" : "Pohjanmaa"
+	},
+	{
+		"ID" : 253,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Северная Остроботния",
+		"NAME_EN" : "Pohjois-Pohjanmaa",
+		"NAME_RO" : "Pohjois-Pohjanmaa"
+	},
+	{
+		"ID" : 254,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Северное Саво",
+		"NAME_EN" : "Pohjois-Savo",
+		"NAME_RO" : "Pohjois-Savo"
+	},
+	{
+		"ID" : 255,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Сатакунта",
+		"NAME_EN" : "Satakunta",
+		"NAME_RO" : "Satakunta"
+	},
+	{
+		"ID" : 256,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Юго-Западная Финляндия",
+		"NAME_EN" : "Varsinais-Suomi",
+		"NAME_RO" : "Varsinais-Suomi"
+	},
+	{
+		"ID" : 257,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Центральная Финляндия",
+		"NAME_EN" : "Keski-Suomi",
+		"NAME_RO" : "Keski-Suomi"
+	},
+	{
+		"ID" : 258,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Уусима",
+		"NAME_EN" : "Uusimaa",
+		"NAME_RO" : "Uusimaa"
+	},
+	{
+		"ID" : 259,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Финляндия",
+		"NAME_EN" : "Finland",
+		"NAME_RO" : "Finland"
+	},
+	{
+		"ID" : 260,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Ко́увола",
+		"NAME_EN" : "Kouvola",
+		"NAME_RO" : "Kouvola"
+	},
+	{
+		"ID" : 261,
+		"COUNTRY_ID" : 76,
+		"NAME_RU" : "Се́верная Каре́лия",
+		"NAME_EN" : "Pohjois-Karjala",
+		"NAME_RO" : "Pohjois-Karjala"
+	},
+	{
+		"ID" : 262,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Кот-д’Армор",
+		"NAME_EN" : "Cotes-d`Armor",
+		"NAME_RO" : "Cotes-d`Armor"
+	},
+	{
+		"ID" : 263,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Алье",
+		"NAME_EN" : "Allier",
+		"NAME_RO" : "Allier"
+	},
+	{
+		"ID" : 264,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Альпы Верхние",
+		"NAME_EN" : "Hautes-Alpes",
+		"NAME_RO" : "Hautes-Alpes"
+	},
+	{
+		"ID" : 265,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Альпы Приморские",
+		"NAME_EN" : "Alpes-Maritimes",
+		"NAME_RO" : "Alpes-Maritimes"
+	},
+	{
+		"ID" : 266,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Арденны",
+		"NAME_EN" : "Ardennes",
+		"NAME_RO" : "Ardennes"
+	},
+	{
+		"ID" : 267,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Бельфор",
+		"NAME_EN" : "Belfort",
+		"NAME_RO" : "Belfort"
+	},
+	{
+		"ID" : 268,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Буш-дю-Рон",
+		"NAME_EN" : "Bouches-du-Rhône",
+		"NAME_RO" : "Bouches-du-Rhône"
+	},
+	{
+		"ID" : 269,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Валь-д` Уаз",
+		"NAME_EN" : "Val d`Oise d",
+		"NAME_RO" : "Val d`Oise d"
+	},
+	{
+		"ID" : 270,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Валь-де-Марн",
+		"NAME_EN" : "Val-de-Marne",
+		"NAME_RO" : "Val-de-Marne"
+	},
+	{
+		"ID" : 271,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Вар",
+		"NAME_EN" : "Var",
+		"NAME_RO" : "Var"
+	},
+	{
+		"ID" : 272,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Вогезы",
+		"NAME_EN" : "Vosges",
+		"NAME_RO" : "Vosges"
+	},
+	{
+		"ID" : 273,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Воклюз",
+		"NAME_EN" : "Vaucluse",
+		"NAME_RO" : "Vaucluse"
+	},
+	{
+		"ID" : 274,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Вьенна",
+		"NAME_EN" : "Vienne",
+		"NAME_RO" : "Vienne"
+	},
+	{
+		"ID" : 275,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Вьенна Верхняя",
+		"NAME_EN" : "Haute-Vienne",
+		"NAME_RO" : "Haute-Vienne"
+	},
+	{
+		"ID" : 276,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Гар",
+		"NAME_EN" : "Gard",
+		"NAME_RO" : "Gard"
+	},
+	{
+		"ID" : 277,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Гаронна Верхняя",
+		"NAME_EN" : "Haute-Garonne",
+		"NAME_RO" : "Haute-Garonne"
+	},
+	{
+		"ID" : 278,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Дё-Севр",
+		"NAME_EN" : "Deux-Sevres",
+		"NAME_RO" : "Deux-Sevres"
+	},
+	{
+		"ID" : 279,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Дром",
+		"NAME_EN" : "Drome",
+		"NAME_RO" : "Drome"
+	},
+	{
+		"ID" : 280,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Ду",
+		"NAME_EN" : "Doubs",
+		"NAME_RO" : "Doubs"
+	},
+	{
+		"ID" : 281,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Жиронда",
+		"NAME_EN" : "Gironde",
+		"NAME_RO" : "Gironde"
+	},
+	{
+		"ID" : 282,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Ивелин",
+		"NAME_EN" : "Yvelines",
+		"NAME_RO" : "Yvelines"
+	},
+	{
+		"ID" : 283,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Иль и Вилен",
+		"NAME_EN" : "Ille-et-Vilaine",
+		"NAME_RO" : "Ille-et-Vilaine"
+	},
+	{
+		"ID" : 284,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Коррез",
+		"NAME_EN" : "Correze",
+		"NAME_RO" : "Correze"
+	},
+	{
+		"ID" : 285,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Корсика Верхняя",
+		"NAME_EN" : "Haute-Corse",
+		"NAME_RO" : "Haute-Corse"
+	},
+	{
+		"ID" : 286,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Корсика Южная",
+		"NAME_EN" : "Corse-du-Sud",
+		"NAME_RO" : "Corse-du-Sud"
+	},
+	{
+		"ID" : 287,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Кот-д`Ор",
+		"NAME_EN" : "Côte d`Or",
+		"NAME_RO" : "Côte d`Or"
+	},
+	{
+		"ID" : 288,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Ланды",
+		"NAME_EN" : "Landes",
+		"NAME_RO" : "Landes"
+	},
+	{
+		"ID" : 289,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Ло и Гаронна",
+		"NAME_EN" : "Lot and Garonne",
+		"NAME_RO" : "Lot and Garonne"
+	},
+	{
+		"ID" : 290,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Лозер",
+		"NAME_EN" : "Loser",
+		"NAME_RO" : "Loser"
+	},
+	{
+		"ID" : 291,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Луар и Шер",
+		"NAME_EN" : "Loir-et-Cher",
+		"NAME_RO" : "Loir-et-Cher"
+	},
+	{
+		"ID" : 292,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Луара",
+		"NAME_EN" : "Loire",
+		"NAME_RO" : "Loire"
+	},
+	{
+		"ID" : 293,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Луара Атлантическая",
+		"NAME_EN" : "Loire-Atlantique",
+		"NAME_RO" : "Loire-Atlantique"
+	},
+	{
+		"ID" : 294,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Луара Верхняя",
+		"NAME_EN" : "Haute-Loire",
+		"NAME_RO" : "Haute-Loire"
+	},
+	{
+		"ID" : 295,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Луаре",
+		"NAME_EN" : "Loire",
+		"NAME_RO" : "Loire"
+	},
+	{
+		"ID" : 296,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Майенн",
+		"NAME_EN" : "Mayenne",
+		"NAME_RO" : "Mayenne"
+	},
+	{
+		"ID" : 297,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Марна",
+		"NAME_EN" : "Marne",
+		"NAME_RO" : "Marne"
+	},
+	{
+		"ID" : 298,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Мен и Луара",
+		"NAME_EN" : "Maine-et-Loire",
+		"NAME_RO" : "Maine-et-Loire"
+	},
+	{
+		"ID" : 299,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Мёрт и Мозель",
+		"NAME_EN" : "Meurthe et Moselle",
+		"NAME_RO" : "Meurthe et Moselle"
+	},
+	{
+		"ID" : 300,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Мозель",
+		"NAME_EN" : "Moselle",
+		"NAME_RO" : "Moselle"
+	},
+	{
+		"ID" : 301,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Морбиан",
+		"NAME_EN" : "Morbihan",
+		"NAME_RO" : "Morbihan"
+	},
+	{
+		"ID" : 302,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Нор",
+		"NAME_EN" : "Nor",
+		"NAME_RO" : "Nor"
+	},
+	{
+		"ID" : 303,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Ньевр",
+		"NAME_EN" : "Nièvre",
+		"NAME_RO" : "Nièvre"
+	},
+	{
+		"ID" : 304,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "О-де-Сен",
+		"NAME_EN" : "Hauts-de-Seine",
+		"NAME_RO" : "Hauts-de-Seine"
+	},
+	{
+		"ID" : 305,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Об",
+		"NAME_EN" : "Aube",
+		"NAME_RO" : "Aube"
+	},
+	{
+		"ID" : 306,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Од",
+		"NAME_EN" : "Aude",
+		"NAME_RO" : "Aude"
+	},
+	{
+		"ID" : 307,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Орн",
+		"NAME_EN" : "Orne",
+		"NAME_RO" : "Orne"
+	},
+	{
+		"ID" : 308,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Па-де-Кале",
+		"NAME_EN" : "Pas-de-Calais",
+		"NAME_RO" : "Pas-de-Calais"
+	},
+	{
+		"ID" : 309,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Париж",
+		"NAME_EN" : "Paris",
+		"NAME_RO" : "Paris"
+	},
+	{
+		"ID" : 310,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Пиренеи Атлантические",
+		"NAME_EN" : "Pyrenees-Atlantiques",
+		"NAME_RO" : "Pyrenees-Atlantiques"
+	},
+	{
+		"ID" : 311,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Пиренеи Верхние",
+		"NAME_EN" : "Hautes-Pyrénées",
+		"NAME_RO" : "Hautes-Pyrénées"
+	},
+	{
+		"ID" : 312,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Пиренеи Восточные",
+		"NAME_EN" : "Pyrénées-Orientales",
+		"NAME_RO" : "Pyrénées-Orientales"
+	},
+	{
+		"ID" : 313,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Рейн Верхний",
+		"NAME_EN" : "Haut-Rhin",
+		"NAME_RO" : "Haut-Rhin"
+	},
+	{
+		"ID" : 314,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Рейн Нижний",
+		"NAME_EN" : "Bas-Rhin",
+		"NAME_RO" : "Bas-Rhin"
+	},
+	{
+		"ID" : 315,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Рона",
+		"NAME_EN" : "Rhone",
+		"NAME_RO" : "Rhone"
+	},
+	{
+		"ID" : 316,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Савойя",
+		"NAME_EN" : "Savoie",
+		"NAME_RO" : "Savoie"
+	},
+	{
+		"ID" : 317,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Савойя Верхняя",
+		"NAME_EN" : "Haute-Savoie",
+		"NAME_RO" : "Haute-Savoie"
+	},
+	{
+		"ID" : 318,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Сарта",
+		"NAME_EN" : "Sarthe",
+		"NAME_RO" : "Sarthe"
+	},
+	{
+		"ID" : 319,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Сен-Сен-Дени",
+		"NAME_EN" : "Seine-Saint-Denis",
+		"NAME_RO" : "Seine-Saint-Denis"
+	},
+	{
+		"ID" : 320,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Сена Приморская",
+		"NAME_EN" : "Seine-Maritime",
+		"NAME_RO" : "Seine-Maritime"
+	},
+	{
+		"ID" : 321,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Сомма",
+		"NAME_EN" : "Somme",
+		"NAME_RO" : "Somme"
+	},
+	{
+		"ID" : 322,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Сона и Луара",
+		"NAME_EN" : "Saone-et-Loire",
+		"NAME_RO" : "Saone-et-Loire"
+	},
+	{
+		"ID" : 323,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Тарн",
+		"NAME_EN" : "Tarn",
+		"NAME_RO" : "Tarn"
+	},
+	{
+		"ID" : 324,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Уаза",
+		"NAME_EN" : "Oise",
+		"NAME_RO" : "Oise"
+	},
+	{
+		"ID" : 325,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Финистер",
+		"NAME_EN" : "Finistère",
+		"NAME_RO" : "Finistère"
+	},
+	{
+		"ID" : 326,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Шаранта",
+		"NAME_EN" : "Charente",
+		"NAME_RO" : "Charente"
+	},
+	{
+		"ID" : 327,
+		"COUNTRY_ID" : 111,
+		"NAME_RU" : "Тель-Авив",
+		"NAME_EN" : "Tel Aviv",
+		"NAME_RO" : "Tel Aviv"
+	},
+	{
+		"ID" : 328,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Шаранта Приморская",
+		"NAME_EN" : "Charente-Maritime",
+		"NAME_RO" : "Charente-Maritime"
+	},
+	{
+		"ID" : 329,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Шер",
+		"NAME_EN" : "Cher",
+		"NAME_RO" : "Cher"
+	},
+	{
+		"ID" : 330,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Эна",
+		"NAME_EN" : "Aisne",
+		"NAME_RO" : "Aisne"
+	},
+	{
+		"ID" : 331,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Эндр",
+		"NAME_EN" : "Indre",
+		"NAME_RO" : "Indre"
+	},
+	{
+		"ID" : 332,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Эндр и Луара",
+		"NAME_EN" : "Indre-et-Loire",
+		"NAME_RO" : "Indre-et-Loire"
+	},
+	{
+		"ID" : 333,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Эр",
+		"NAME_EN" : "Ayr",
+		"NAME_RO" : "Ayr"
+	},
+	{
+		"ID" : 334,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Эро",
+		"NAME_EN" : "Herault",
+		"NAME_RO" : "Herault"
+	},
+	{
+		"ID" : 335,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Эссонн",
+		"NAME_EN" : "Essonne",
+		"NAME_RO" : "Essonne"
+	},
+	{
+		"ID" : 336,
+		"COUNTRY_ID" : 77,
+		"NAME_RU" : "Франция",
+		"NAME_EN" : "France",
+		"NAME_RO" : "France"
+	},
+	{
+		"ID" : 337,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Южночешский край",
+		"NAME_EN" : "Jihochesky",
+		"NAME_RO" : "Jihochesky"
+	},
+	{
+		"ID" : 338,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Южноморавский край",
+		"NAME_EN" : "Jihomoravsky",
+		"NAME_RO" : "Jihomoravsky"
+	},
+	{
+		"ID" : 339,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Карловарский край",
+		"NAME_EN" : "Karlovarsky",
+		"NAME_RO" : "Karlovarsky"
+	},
+	{
+		"ID" : 340,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Краловеградецкий край",
+		"NAME_EN" : "Kralovehradecky",
+		"NAME_RO" : "Kralovehradecky"
+	},
+	{
+		"ID" : 341,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Либерецкий край",
+		"NAME_EN" : "Liberecky",
+		"NAME_RO" : "Liberecky"
+	},
+	{
+		"ID" : 342,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Моравскосилезский край",
+		"NAME_EN" : "Moravskoslezsky",
+		"NAME_RO" : "Moravskoslezsky"
+	},
+	{
+		"ID" : 343,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Оломоуцкий край",
+		"NAME_EN" : "Olomoucky",
+		"NAME_RO" : "Olomoucky"
+	},
+	{
+		"ID" : 344,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Среднечешский край",
+		"NAME_EN" : "Stredochesky",
+		"NAME_RO" : "Stredochesky"
+	},
+	{
+		"ID" : 345,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Устецкий край",
+		"NAME_EN" : "Ustecky",
+		"NAME_RO" : "Ustecky"
+	},
+	{
+		"ID" : 346,
+		"COUNTRY_ID" : 61,
+		"NAME_RU" : "Чехия",
+		"NAME_EN" : "Czech Republic",
+		"NAME_RO" : "Czech Republic"
+	},
+	{
+		"ID" : 347,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Аргау",
+		"NAME_EN" : "Aargau",
+		"NAME_RO" : "Aargau"
+	},
+	{
+		"ID" : 348,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Базель-Штадт",
+		"NAME_EN" : "Basel-Stadt",
+		"NAME_RO" : "Basel-Stadt"
+	},
+	{
+		"ID" : 349,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Берн",
+		"NAME_EN" : "Berne",
+		"NAME_RO" : "Berne"
+	},
+	{
+		"ID" : 350,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Во",
+		"NAME_EN" : "Vaud",
+		"NAME_RO" : "Vaud"
+	},
+	{
+		"ID" : 351,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Женева",
+		"NAME_EN" : "Geneva",
+		"NAME_RO" : "Geneva"
+	},
+	{
+		"ID" : 352,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Золотурн",
+		"NAME_EN" : "Solothurn",
+		"NAME_RO" : "Solothurn"
+	},
+	{
+		"ID" : 353,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Люцерн",
+		"NAME_EN" : "Lucerne",
+		"NAME_RO" : "Lucerne"
+	},
+	{
+		"ID" : 391,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Alba",
+		"NAME_EN" : "Alba",
+		"NAME_RO" : "Alba"
+	},
+	{
+		"ID" : 392,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Arad",
+		"NAME_EN" : "Arad",
+		"NAME_RO" : "Arad"
+	},
+	{
+		"ID" : 393,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Argeş",
+		"NAME_EN" : "Argeş",
+		"NAME_RO" : "Argeş"
+	},
+	{
+		"ID" : 394,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Bacău",
+		"NAME_EN" : "Bacău",
+		"NAME_RO" : "Bacău"
+	},
+	{
+		"ID" : 395,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Bihor",
+		"NAME_EN" : "Bihor",
+		"NAME_RO" : "Bihor"
+	},
+	{
+		"ID" : 354,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Невшатель",
+		"NAME_EN" : "Neuchatel",
+		"NAME_RO" : "Neuchatel"
+	},
+	{
+		"ID" : 355,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Тичино",
+		"NAME_EN" : "Ticino",
+		"NAME_RO" : "Ticino"
+	},
+	{
+		"ID" : 356,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Фрибур",
+		"NAME_EN" : "Fribourg",
+		"NAME_RO" : "Fribourg"
+	},
+	{
+		"ID" : 357,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Цюрих",
+		"NAME_EN" : "Zurich",
+		"NAME_RO" : "Zurich"
+	},
+	{
+		"ID" : 358,
+		"COUNTRY_ID" : 219,
+		"NAME_RU" : "Швейцария",
+		"NAME_EN" : "Switzerland",
+		"NAME_RO" : "Switzerland"
+	},
+	{
+		"ID" : 359,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Сконе",
+		"NAME_EN" : "Skane",
+		"NAME_RO" : "Skane"
+	},
+	{
+		"ID" : 360,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Вестра-Гёталанд",
+		"NAME_EN" : "Vastra Gotaland",
+		"NAME_RO" : "Vastra Gotaland"
+	},
+	{
+		"ID" : 361,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Вермланд",
+		"NAME_EN" : "Värmland",
+		"NAME_RO" : "Värmland"
+	},
+	{
+		"ID" : 362,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Вестерботтен",
+		"NAME_EN" : "Västerbotten",
+		"NAME_RO" : "Västerbotten"
+	},
+	{
+		"ID" : 363,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Вестернорланд",
+		"NAME_EN" : "Vesternorland",
+		"NAME_RO" : "Vesternorland"
+	},
+	{
+		"ID" : 364,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Вестманланд",
+		"NAME_EN" : "Västmanland",
+		"NAME_RO" : "Västmanland"
+	},
+	{
+		"ID" : 365,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Евлеборг",
+		"NAME_EN" : "Gävleborg",
+		"NAME_RO" : "Gävleborg"
+	},
+	{
+		"ID" : 366,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Емтланд",
+		"NAME_EN" : "Jämtland",
+		"NAME_RO" : "Jämtland"
+	},
+	{
+		"ID" : 367,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Йёнчёпинг",
+		"NAME_EN" : "Jonkoping",
+		"NAME_RO" : "Jonkoping"
+	},
+	{
+		"ID" : 368,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Сёдерманланд",
+		"NAME_EN" : "Södermanland",
+		"NAME_RO" : "Södermanland"
+	},
+	{
+		"ID" : 369,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Стокгольм",
+		"NAME_EN" : "Stockholm",
+		"NAME_RO" : "Stockholm"
+	},
+	{
+		"ID" : 370,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Упсала",
+		"NAME_EN" : "Uppsala",
+		"NAME_RO" : "Uppsala"
+	},
+	{
+		"ID" : 371,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Халланд",
+		"NAME_EN" : "Halland",
+		"NAME_RO" : "Halland"
+	},
+	{
+		"ID" : 372,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Эстерйетланд",
+		"NAME_EN" : "Esteryetland",
+		"NAME_RO" : "Esteryetland"
+	},
+	{
+		"ID" : 373,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Швеция",
+		"NAME_EN" : "Sweden",
+		"NAME_RO" : "Sweden"
+	},
+	{
+		"ID" : 374,
+		"COUNTRY_ID" : 218,
+		"NAME_RU" : "Норрботтен",
+		"NAME_EN" : "Norrbotten",
+		"NAME_RO" : "Norrbotten"
+	},
+	{
+		"ID" : 375,
+		"COUNTRY_ID" : 71,
+		"NAME_RU" : "Эстония",
+		"NAME_EN" : "Estonia",
+		"NAME_RO" : "Estonia"
+	},
+	{
+		"ID" : 376,
+		"COUNTRY_ID" : 149,
+		"NAME_RU" : "Воеводина",
+		"NAME_EN" : "Vojvodina",
+		"NAME_RO" : "Vojvodina"
+	},
+	{
+		"ID" : 377,
+		"COUNTRY_ID" : 149,
+		"NAME_RU" : "Косово",
+		"NAME_EN" : "Kosovo",
+		"NAME_RO" : "Kosovo"
+	},
+	{
+		"ID" : 378,
+		"COUNTRY_ID" : 149,
+		"NAME_RU" : "Сербия",
+		"NAME_EN" : "Serbia",
+		"NAME_RO" : "Serbia"
+	},
+	{
+		"ID" : 379,
+		"COUNTRY_ID" : 149,
+		"NAME_RU" : "Югославия",
+		"NAME_EN" : "Yugoslavia",
+		"NAME_RO" : "Yugoslavia"
+	},
+	{
+		"ID" : 380,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Гелдерланд",
+		"NAME_EN" : "Gelderland",
+		"NAME_RO" : "Gelderland"
+	},
+	{
+		"ID" : 381,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Гронинген",
+		"NAME_EN" : "Groningen",
+		"NAME_RO" : "Groningen"
+	},
+	{
+		"ID" : 382,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Дренте",
+		"NAME_EN" : "Drenthe",
+		"NAME_RO" : "Drenthe"
+	},
+	{
+		"ID" : 383,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Лимбург",
+		"NAME_EN" : "Limburg",
+		"NAME_RO" : "Limburg"
+	},
+	{
+		"ID" : 384,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Оверэйсел",
+		"NAME_EN" : "Overijssel",
+		"NAME_RO" : "Overijssel"
+	},
+	{
+		"ID" : 385,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Северная Голландия",
+		"NAME_EN" : "North Holland",
+		"NAME_RO" : "North Holland"
+	},
+	{
+		"ID" : 386,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Северный Брабант",
+		"NAME_EN" : "North Brabant",
+		"NAME_RO" : "North Brabant"
+	},
+	{
+		"ID" : 387,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Утрехт",
+		"NAME_EN" : "Utrecht",
+		"NAME_RO" : "Utrecht"
+	},
+	{
+		"ID" : 388,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Фрисландия",
+		"NAME_EN" : "Friesland",
+		"NAME_RO" : "Friesland"
+	},
+	{
+		"ID" : 389,
+		"COUNTRY_ID" : 157,
+		"NAME_RU" : "Южная Голландия",
+		"NAME_EN" : "South Holland",
+		"NAME_RO" : "South Holland"
+	},
+	{
+		"ID" : 390,
+		"COUNTRY_ID" : 57,
+		"NAME_RU" : "Хорватия",
+		"NAME_EN" : "Croatia",
+		"NAME_RO" : "Croatia"
+	},
+	{
+		"ID" : 396,
+		"COUNTRY_ID" : 132,
+		"NAME_RU" : "Скопье",
+		"NAME_EN" : "Skopje",
+		"NAME_RO" : "Skopje"
+	},
+	{
+		"ID" : 397,
+		"COUNTRY_ID" : 138,
+		"NAME_RU" : "Мальта",
+		"NAME_EN" : "Malta",
+		"NAME_RO" : "Malta"
+	},
+	{
+		"ID" : 398,
+		"COUNTRY_ID" : 15,
+		"NAME_RU" : "Азербайджан",
+		"NAME_EN" : "Azerbaijan",
+		"NAME_RO" : "Azerbaijan"
+	},
+	{
+		"ID" : 399,
+		"COUNTRY_ID" : 15,
+		"NAME_RU" : "Нахичеванская обл.",
+		"NAME_EN" : "Nahcivan",
+		"NAME_RO" : "Nahcivan"
+	},
+	{
+		"ID" : 400,
+		"COUNTRY_ID" : 15,
+		"NAME_RU" : "Бардинский район",
+		"NAME_EN" : "Barda district",
+		"NAME_RO" : "Barda district"
+	},
+	{
+		"ID" : 401,
+		"COUNTRY_ID" : 15,
+		"NAME_RU" : "Бардинский район",
+		"NAME_EN" : "Barda district",
+		"NAME_RO" : "Barda district"
+	},
+	{
+		"ID" : 402,
+		"COUNTRY_ID" : 11,
+		"NAME_RU" : "Ереванская область",
+		"NAME_EN" : "Yerevan region",
+		"NAME_RO" : "Yerevan region"
+	},
+	{
+		"ID" : 403,
+		"COUNTRY_ID" : 11,
+		"NAME_RU" : "Армения",
+		"NAME_EN" : "Armenia",
+		"NAME_RO" : "Armenia"
+	},
+	{
+		"ID" : 404,
+		"COUNTRY_ID" : 244,
+		"NAME_RU" : "Де́льта Меко́нга",
+		"NAME_EN" : "Dong Bang Song Cuu Long",
+		"NAME_RO" : "Dong Bang Song Cuu Long"
+	},
+	{
+		"ID" : 405,
+		"COUNTRY_ID" : 244,
+		"NAME_RU" : "Дельта Хонгхи",
+		"NAME_EN" : "Dong Bang Song Hong",
+		"NAME_RO" : "Dong Bang Song Hong"
+	},
+	{
+		"ID" : 406,
+		"COUNTRY_ID" : 244,
+		"NAME_RU" : "Юго-Восточный",
+		"NAME_EN" : "Dong Nam Bo",
+		"NAME_RO" : "Dong Nam Bo"
+	},
+	{
+		"ID" : 407,
+		"COUNTRY_ID" : 244,
+		"NAME_RU" : "Центральный Вьетнам",
+		"NAME_EN" : "Duyen Hai Mien Trung",
+		"NAME_RO" : "Duyen Hai Mien Trung"
+	},
+	{
+		"ID" : 408,
+		"COUNTRY_ID" : 244,
+		"NAME_RU" : "Тэйнгуе́н",
+		"NAME_EN" : "Thai Nguyen",
+		"NAME_RO" : "Thai Nguyen"
+	},
+	{
+		"ID" : 409,
+		"COUNTRY_ID" : 83,
+		"NAME_RU" : "Автономная Республика Абхазия",
+		"NAME_EN" : "Autonomous Republic of Abkhazia",
+		"NAME_RO" : "Autonomous Republic of Abkhazia"
+	},
+	{
+		"ID" : 410,
+		"COUNTRY_ID" : 83,
+		"NAME_RU" : "Аджария",
+		"NAME_EN" : "Adjara",
+		"NAME_RO" : "Adjara"
+	},
+	{
+		"ID" : 411,
+		"COUNTRY_ID" : 83,
+		"NAME_RU" : "Южная Осетия",
+		"NAME_EN" : "South Ossetia",
+		"NAME_RO" : "South Ossetia"
+	},
+	{
+		"ID" : 412,
+		"COUNTRY_ID" : 111,
+		"NAME_RU" : "Центральный округ",
+		"NAME_EN" : "Central District",
+		"NAME_RO" : "Central District"
+	},
+	{
+		"ID" : 413,
+		"COUNTRY_ID" : 111,
+		"NAME_RU" : "Иерусалим",
+		"NAME_EN" : "Jerusalem",
+		"NAME_RO" : "Jerusalem"
+	},
+	{
+		"ID" : 414,
+		"COUNTRY_ID" : 111,
+		"NAME_RU" : "Иудея и Самария",
+		"NAME_EN" : "Judea and Samaria",
+		"NAME_RO" : "Judea and Samaria"
+	},
+	{
+		"ID" : 415,
+		"COUNTRY_ID" : 111,
+		"NAME_RU" : "Северный",
+		"NAME_EN" : "Northern",
+		"NAME_RO" : "Northern"
+	},
+	{
+		"ID" : 416,
+		"COUNTRY_ID" : 111,
+		"NAME_RU" : "Хайфский",
+		"NAME_EN" : "Haifa",
+		"NAME_RO" : "Haifa"
+	},
+	{
+		"ID" : 417,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "За́падная Бенга́лия",
+		"NAME_EN" : "West Bengal",
+		"NAME_RO" : "West Bengal"
+	},
+	{
+		"ID" : 418,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Чхаттисга́рх",
+		"NAME_EN" : "Chhattisgarh",
+		"NAME_RO" : "Chhattisgarh"
+	},
+	{
+		"ID" : 419,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Карна́така",
+		"NAME_EN" : "Karnataka",
+		"NAME_RO" : "Karnataka"
+	},
+	{
+		"ID" : 420,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Уттаракха́нд",
+		"NAME_EN" : "Uttaranchal",
+		"NAME_RO" : "Uttaranchal"
+	},
+	{
+		"ID" : 421,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Андхра-Прадеш",
+		"NAME_EN" : "Andhra Pradesh",
+		"NAME_RO" : "Andhra Pradesh"
+	},
+	{
+		"ID" : 422,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Ассам",
+		"NAME_EN" : "Assam",
+		"NAME_RO" : "Assam"
+	},
+	{
+		"ID" : 423,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Бихар",
+		"NAME_EN" : "Bihar",
+		"NAME_RO" : "Bihar"
+	},
+	{
+		"ID" : 424,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Гуджарат",
+		"NAME_EN" : "Гуджарат",
+		"NAME_RO" : "Гуджарат"
+	},
+	{
+		"ID" : 425,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Джамму и Кашмир",
+		"NAME_EN" : "Jammu and Kashmir",
+		"NAME_RO" : "Jammu and Kashmir"
+	},
+	{
+		"ID" : 426,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Керала",
+		"NAME_EN" : "Kerala",
+		"NAME_RO" : "Kerala"
+	},
+	{
+		"ID" : 427,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Мадхья-Прадеш",
+		"NAME_EN" : "Madhya Pradesh",
+		"NAME_RO" : "Madhya Pradesh"
+	},
+	{
+		"ID" : 428,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Манипур",
+		"NAME_EN" : "Manipur",
+		"NAME_RO" : "Manipur"
+	},
+	{
+		"ID" : 429,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Махараштра",
+		"NAME_EN" : "Maharashtra",
+		"NAME_RO" : "Maharashtra"
+	},
+	{
+		"ID" : 430,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Мегхалая",
+		"NAME_EN" : "Meghalaya",
+		"NAME_RO" : "Meghalaya"
+	},
+	{
+		"ID" : 431,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Орисса",
+		"NAME_EN" : "Orissa",
+		"NAME_RO" : "Orissa"
+	},
+	{
+		"ID" : 432,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Пенджаб",
+		"NAME_EN" : "Punjab",
+		"NAME_RO" : "Punjab"
+	},
+	{
+		"ID" : 433,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Пондишери",
+		"NAME_EN" : "Pondicherry",
+		"NAME_RO" : "Pondicherry"
+	},
+	{
+		"ID" : 434,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Раджастхан",
+		"NAME_EN" : "Rajasthan",
+		"NAME_RO" : "Rajasthan"
+	},
+	{
+		"ID" : 435,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Тамилнад",
+		"NAME_EN" : "Tamil Nadu",
+		"NAME_RO" : "Tamil Nadu"
+	},
+	{
+		"ID" : 436,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Трипура",
+		"NAME_EN" : "Tripura",
+		"NAME_RO" : "Tripura"
+	},
+	{
+		"ID" : 437,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Уттар-Прадеш",
+		"NAME_EN" : "Uttar Pradesh",
+		"NAME_RO" : "Uttar Pradesh"
+	},
+	{
+		"ID" : 438,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Харьяна",
+		"NAME_EN" : "Haryana",
+		"NAME_RO" : "Haryana"
+	},
+	{
+		"ID" : 439,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Чандигарх",
+		"NAME_EN" : "Chandigarh",
+		"NAME_RO" : "Chandigarh"
+	},
+	{
+		"ID" : 440,
+		"COUNTRY_ID" : 104,
+		"NAME_RU" : "Индия",
+		"NAME_EN" : "India",
+		"NAME_RO" : "India"
+	},
+	{
+		"ID" : 441,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Восто́чный Азербайджа́н",
+		"NAME_EN" : "Azarbayjan-e Sarqi",
+		"NAME_RO" : "Azarbayjan-e Sarqi"
+	},
+	{
+		"ID" : 442,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Исфахан",
+		"NAME_EN" : "Esfahan",
+		"NAME_RO" : "Esfahan"
+	},
+	{
+		"ID" : 443,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Хамада́н",
+		"NAME_EN" : "Hamadan",
+		"NAME_RO" : "Hamadan"
+	},
+	{
+		"ID" : 444,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Курдиста́н",
+		"NAME_EN" : "Kordestan",
+		"NAME_RO" : "Kordestan"
+	},
+	{
+		"ID" : 445,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Систа́н и Белуджиста́н",
+		"NAME_EN" : "Sistan-e Baluches",
+		"NAME_RO" : "Sistan-e Baluches"
+	},
+	{
+		"ID" : 446,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Йезд",
+		"NAME_EN" : "Yazd",
+		"NAME_RO" : "Yazd"
+	},
+	{
+		"ID" : 447,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Керман",
+		"NAME_EN" : "Kerman",
+		"NAME_RO" : "Kerman"
+	},
+	{
+		"ID" : 448,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Керманшахан",
+		"NAME_EN" : "Kermanshahan",
+		"NAME_RO" : "Kermanshahan"
+	},
+	{
+		"ID" : 449,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Мазендеран",
+		"NAME_EN" : "Mazandaran",
+		"NAME_RO" : "Mazandaran"
+	},
+	{
+		"ID" : 450,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Тегеран",
+		"NAME_EN" : "Tehran",
+		"NAME_RO" : "Tehran"
+	},
+	{
+		"ID" : 451,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Фарс",
+		"NAME_EN" : "Fārs",
+		"NAME_RO" : "Fārs"
+	},
+	{
+		"ID" : 452,
+		"COUNTRY_ID" : 107,
+		"NAME_RU" : "Хузистан",
+		"NAME_EN" : "Xuzestân",
+		"NAME_RO" : "Xuzestân"
+	},
+	{
+		"ID" : 453,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Атырауская область",
+		"NAME_EN" : "Atyrau region",
+		"NAME_RO" : "Atyrau region"
+	},
+	{
+		"ID" : 454,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Жамбылская область",
+		"NAME_EN" : "Zhambyl region",
+		"NAME_RO" : "Zhambyl region"
+	},
+	{
+		"ID" : 455,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Карагандинская область",
+		"NAME_EN" : "Karagandy region",
+		"NAME_RO" : "Karagandy region"
+	},
+	{
+		"ID" : 456,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Кызылординская область",
+		"NAME_EN" : "Kyzylorda region",
+		"NAME_RO" : "Kyzylorda region"
+	},
+	{
+		"ID" : 457,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Костанайская область",
+		"NAME_EN" : "Kostanai region",
+		"NAME_RO" : "Kostanai region"
+	},
+	{
+		"ID" : 458,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Мангистауская область",
+		"NAME_EN" : "Mangystau region",
+		"NAME_RO" : "Mangystau region"
+	},
+	{
+		"ID" : 459,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Павлодарская область",
+		"NAME_EN" : "Pavlodar region",
+		"NAME_RO" : "Pavlodar region"
+	},
+	{
+		"ID" : 460,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Северо-Казахстанская область",
+		"NAME_EN" : "North Kazakhstan region",
+		"NAME_RO" : "North Kazakhstan region"
+	},
+	{
+		"ID" : 461,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Южно-Казахстанская область",
+		"NAME_EN" : "South Kazakhstan region",
+		"NAME_RO" : "South Kazakhstan region"
+	},
+	{
+		"ID" : 462,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Западно-Казахстанская область",
+		"NAME_EN" : "West Kazakhstan region",
+		"NAME_RO" : "West Kazakhstan region"
+	},
+	{
+		"ID" : 463,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Астана",
+		"NAME_EN" : "Astana",
+		"NAME_RO" : "Astana"
+	},
+	{
+		"ID" : 464,
+		"COUNTRY_ID" : 121,
+		"NAME_RU" : "Иссык-Кульская обл.",
+		"NAME_EN" : "Issyk-Kul region",
+		"NAME_RO" : "Issyk-Kul region"
+	},
+	{
+		"ID" : 465,
+		"COUNTRY_ID" : 121,
+		"NAME_RU" : "Нарынская обл.",
+		"NAME_EN" : "Naryn region",
+		"NAME_RO" : "Naryn region"
+	},
+	{
+		"ID" : 466,
+		"COUNTRY_ID" : 121,
+		"NAME_RU" : "Ошская обл.",
+		"NAME_EN" : "Osh region",
+		"NAME_RO" : "Osh region"
+	},
+	{
+		"ID" : 467,
+		"COUNTRY_ID" : 121,
+		"NAME_RU" : "Таласская обл.",
+		"NAME_EN" : "Talas region",
+		"NAME_RO" : "Talas region"
+	},
+	{
+		"ID" : 468,
+		"COUNTRY_ID" : 121,
+		"NAME_RU" : "Бишкек",
+		"NAME_EN" : "Bishkek",
+		"NAME_RO" : "Bishkek"
+	},
+	{
+		"ID" : 469,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Синьцзян-Уйгурский автономный район",
+		"NAME_EN" : "Xinjiang",
+		"NAME_RO" : "Xinjiang"
+	},
+	{
+		"ID" : 470,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Внутренняя Монголия",
+		"NAME_EN" : "Inner Mongolia",
+		"NAME_RO" : "Inner Mongolia"
+	},
+	{
+		"ID" : 471,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Ганьсу",
+		"NAME_EN" : "Gansu",
+		"NAME_RO" : "Gansu"
+	},
+	{
+		"ID" : 472,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Гуанси",
+		"NAME_EN" : "Guangxi",
+		"NAME_RO" : "Guangxi"
+	},
+	{
+		"ID" : 473,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Ляонин",
+		"NAME_EN" : "Liaoning",
+		"NAME_RO" : "Liaoning"
+	},
+	{
+		"ID" : 474,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Сычуань",
+		"NAME_EN" : "Sichuan",
+		"NAME_RO" : "Sichuan"
+	},
+	{
+		"ID" : 475,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Фуцзянь",
+		"NAME_EN" : "Fujian",
+		"NAME_RO" : "Fujian"
+	},
+	{
+		"ID" : 476,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Хубэй",
+		"NAME_EN" : "Hubei",
+		"NAME_RO" : "Hubei"
+	},
+	{
+		"ID" : 477,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Хунань",
+		"NAME_EN" : "Hunan",
+		"NAME_RO" : "Hunan"
+	},
+	{
+		"ID" : 478,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Хэбэй",
+		"NAME_EN" : "Hebei",
+		"NAME_RO" : "Hebei"
+	},
+	{
+		"ID" : 479,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Хэйлунцзян",
+		"NAME_EN" : "Heilongjiang",
+		"NAME_RO" : "Heilongjiang"
+	},
+	{
+		"ID" : 480,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Хэнань",
+		"NAME_EN" : "Хэнань",
+		"NAME_RO" : "Хэнань"
+	},
+	{
+		"ID" : 481,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Цзилинь",
+		"NAME_EN" : "Jilin",
+		"NAME_RO" : "Jilin"
+	},
+	{
+		"ID" : 482,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Цзянси",
+		"NAME_EN" : "Jiangxi",
+		"NAME_RO" : "Jiangxi"
+	},
+	{
+		"ID" : 483,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Цзянсу",
+		"NAME_EN" : "Jiangsu",
+		"NAME_RO" : "Jiangsu"
+	},
+	{
+		"ID" : 484,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Чжэцзян",
+		"NAME_EN" : "Чжэцзян",
+		"NAME_RO" : "Чжэцзян"
+	},
+	{
+		"ID" : 485,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Шанхай",
+		"NAME_EN" : "Shanghai",
+		"NAME_RO" : "Shanghai"
+	},
+	{
+		"ID" : 486,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Шаньдун",
+		"NAME_EN" : "Shandong",
+		"NAME_RO" : "Shandong"
+	},
+	{
+		"ID" : 487,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Шаньси",
+		"NAME_EN" : "Shanxi",
+		"NAME_RO" : "Shanxi"
+	},
+	{
+		"ID" : 488,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Пекин",
+		"NAME_EN" : "Beijing",
+		"NAME_RO" : "Beijing"
+	},
+	{
+		"ID" : 489,
+		"COUNTRY_ID" : 48,
+		"NAME_RU" : "Гуандон",
+		"NAME_EN" : "Guangdong",
+		"NAME_RO" : "Guangdong"
+	},
+	{
+		"ID" : 490,
+		"COUNTRY_ID" : 222,
+		"NAME_RU" : "Горно-Бадахшанская обл.",
+		"NAME_EN" : "Mining-Badakhshan region",
+		"NAME_RO" : "Mining-Badakhshan region"
+	},
+	{
+		"ID" : 491,
+		"COUNTRY_ID" : 222,
+		"NAME_RU" : "Согдийская обл.",
+		"NAME_EN" : "Sughd region",
+		"NAME_RO" : "Sughd region"
+	},
+	{
+		"ID" : 492,
+		"COUNTRY_ID" : 232,
+		"NAME_RU" : "Ахалский велаят",
+		"NAME_EN" : "Ahal velayat",
+		"NAME_RO" : "Ahal velayat"
+	},
+	{
+		"ID" : 493,
+		"COUNTRY_ID" : 232,
+		"NAME_RU" : "Балканский велаят",
+		"NAME_EN" : "Balkan velayat",
+		"NAME_RO" : "Balkan velayat"
+	},
+	{
+		"ID" : 494,
+		"COUNTRY_ID" : 232,
+		"NAME_RU" : "Дашогузский велаят",
+		"NAME_EN" : "Dashoguz",
+		"NAME_RO" : "Dashoguz"
+	},
+	{
+		"ID" : 495,
+		"COUNTRY_ID" : 232,
+		"NAME_RU" : "Лебапский велаят",
+		"NAME_EN" : "Lebap province",
+		"NAME_RO" : "Lebap province"
+	},
+	{
+		"ID" : 496,
+		"COUNTRY_ID" : 232,
+		"NAME_RU" : "Марыйский велаят",
+		"NAME_EN" : "Mary velayat",
+		"NAME_RO" : "Mary velayat"
+	},
+	{
+		"ID" : 497,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Андижанская обл.",
+		"NAME_EN" : "Andijan region",
+		"NAME_RO" : "Andijan region"
+	},
+	{
+		"ID" : 498,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Бухарская обл.",
+		"NAME_EN" : "Bukhara region",
+		"NAME_RO" : "Bukhara region"
+	},
+	{
+		"ID" : 499,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Джизакская обл.",
+		"NAME_EN" : "Djizzak region",
+		"NAME_RO" : "Djizzak region"
+	},
+	{
+		"ID" : 500,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Каракалпакия",
+		"NAME_EN" : "Karakalpakiya",
+		"NAME_RO" : "Karakalpakiya"
+	},
+	{
+		"ID" : 501,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Кашкадарьинская обл.",
+		"NAME_EN" : "Kashkadarya region",
+		"NAME_RO" : "Kashkadarya region"
+	},
+	{
+		"ID" : 502,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Навоийская обл.",
+		"NAME_EN" : "Navoi region",
+		"NAME_RO" : "Navoi region"
+	},
+	{
+		"ID" : 503,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Наманганская обл.",
+		"NAME_EN" : "Namangan region",
+		"NAME_RO" : "Namangan region"
+	},
+	{
+		"ID" : 504,
+		"COUNTRY_ID" : 127,
+		"NAME_RU" : "Три́поли",
+		"NAME_EN" : "Tarabulus",
+		"NAME_RO" : "Tarabulus"
+	},
+	{
+		"ID" : 505,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Алматинская область",
+		"NAME_EN" : "Almaty region",
+		"NAME_RO" : "Almaty region"
+	},
+	{
+		"ID" : 506,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Актюбинская область",
+		"NAME_EN" : "Aktobe region",
+		"NAME_RO" : "Aktobe region"
+	},
+	{
+		"ID" : 507,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Алматы",
+		"NAME_EN" : "Almaty",
+		"NAME_RO" : "Almaty"
+	},
+	{
+		"ID" : 508,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Самаркандская обл.",
+		"NAME_EN" : "Samarkand region",
+		"NAME_RO" : "Samarkand region"
+	},
+	{
+		"ID" : 509,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Сурхандарьинская обл.",
+		"NAME_EN" : "Surkhandarya region",
+		"NAME_RO" : "Surkhandarya region"
+	},
+	{
+		"ID" : 510,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Сырдарьинская обл.",
+		"NAME_EN" : "Syrdarya region",
+		"NAME_RO" : "Syrdarya region"
+	},
+	{
+		"ID" : 511,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Ташкентская обл.",
+		"NAME_EN" : "Tashkent region",
+		"NAME_RO" : "Tashkent region"
+	},
+	{
+		"ID" : 512,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Ферганская обл.",
+		"NAME_EN" : "Ferghana region",
+		"NAME_RO" : "Ferghana region"
+	},
+	{
+		"ID" : 513,
+		"COUNTRY_ID" : 241,
+		"NAME_RU" : "Хорезмская обл.",
+		"NAME_EN" : "Khorezm region",
+		"NAME_RO" : "Khorezm region"
+	},
+	{
+		"ID" : 514,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Чеджу",
+		"NAME_EN" : "Cheju",
+		"NAME_RO" : "Cheju"
+	},
+	{
+		"ID" : 515,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Чолла-Пукто",
+		"NAME_EN" : "Chollabuk",
+		"NAME_RO" : "Chollabuk"
+	},
+	{
+		"ID" : 516,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Чолла-Намдо",
+		"NAME_EN" : "Chollanam",
+		"NAME_RO" : "Chollanam"
+	},
+	{
+		"ID" : 517,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Чхунчхон-Пукто",
+		"NAME_EN" : "Chungcheongbuk",
+		"NAME_RO" : "Chungcheongbuk"
+	},
+	{
+		"ID" : 518,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Чхунчхон-Намдо",
+		"NAME_EN" : "Chungcheongnam",
+		"NAME_RO" : "Chungcheongnam"
+	},
+	{
+		"ID" : 519,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Инчхон",
+		"NAME_EN" : "Incheon",
+		"NAME_RO" : "Incheon"
+	},
+	{
+		"ID" : 520,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Канвондо",
+		"NAME_EN" : "Kangweon",
+		"NAME_RO" : "Kangweon"
+	},
+	{
+		"ID" : 521,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Кванджу",
+		"NAME_EN" : "Kwangju",
+		"NAME_RO" : "Kwangju"
+	},
+	{
+		"ID" : 522,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Кёнгидо",
+		"NAME_EN" : "Kyeonggi",
+		"NAME_RO" : "Kyeonggi"
+	},
+	{
+		"ID" : 523,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Кёнсан-Пукто",
+		"NAME_EN" : "Kyeongsangbuk",
+		"NAME_RO" : "Kyeongsangbuk"
+	},
+	{
+		"ID" : 524,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Кёнсан-Намдо",
+		"NAME_EN" : "Kyeongsangnam",
+		"NAME_RO" : "Kyeongsangnam"
+	},
+	{
+		"ID" : 525,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Пусан",
+		"NAME_EN" : "Pusan",
+		"NAME_RO" : "Pusan"
+	},
+	{
+		"ID" : 526,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Сеул",
+		"NAME_EN" : "Seoul",
+		"NAME_RO" : "Seoul"
+	},
+	{
+		"ID" : 527,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Тэгу",
+		"NAME_EN" : "Taegu",
+		"NAME_RO" : "Taegu"
+	},
+	{
+		"ID" : 528,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Тэджон",
+		"NAME_EN" : "Taejeon",
+		"NAME_RO" : "Taejeon"
+	},
+	{
+		"ID" : 529,
+		"COUNTRY_ID" : 210,
+		"NAME_RU" : "Ульсан",
+		"NAME_EN" : "Ulsan",
+		"NAME_RO" : "Ulsan"
+	},
+	{
+		"ID" : 530,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Айти",
+		"NAME_EN" : "Aichi",
+		"NAME_RO" : "Aichi"
+	},
+	{
+		"ID" : 531,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Акита",
+		"NAME_EN" : "Akita",
+		"NAME_RO" : "Akita"
+	},
+	{
+		"ID" : 532,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Аомори",
+		"NAME_EN" : "Aomori",
+		"NAME_RO" : "Aomori"
+	},
+	{
+		"ID" : 533,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Вакаяма",
+		"NAME_EN" : "Wakayama",
+		"NAME_RO" : "Wakayama"
+	},
+	{
+		"ID" : 534,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Гифу",
+		"NAME_EN" : "Gifu",
+		"NAME_RO" : "Gifu"
+	},
+	{
+		"ID" : 535,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Гумма",
+		"NAME_EN" : "Gunma",
+		"NAME_RO" : "Gunma"
+	},
+	{
+		"ID" : 536,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Ибараки",
+		"NAME_EN" : "Ibaraki",
+		"NAME_RO" : "Ibaraki"
+	},
+	{
+		"ID" : 537,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Ивате",
+		"NAME_EN" : "Iwate",
+		"NAME_RO" : "Iwate"
+	},
+	{
+		"ID" : 538,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Исикава",
+		"NAME_EN" : "Ishikawa",
+		"NAME_RO" : "Ishikawa"
+	},
+	{
+		"ID" : 539,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Кагава",
+		"NAME_EN" : "Kagawa",
+		"NAME_RO" : "Kagawa"
+	},
+	{
+		"ID" : 540,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Кагосима",
+		"NAME_EN" : "Kagoshima",
+		"NAME_RO" : "Kagoshima"
+	},
+	{
+		"ID" : 541,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Канагава",
+		"NAME_EN" : "Kanagawa",
+		"NAME_RO" : "Kanagawa"
+	},
+	{
+		"ID" : 542,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Киото",
+		"NAME_EN" : "Kyoto",
+		"NAME_RO" : "Kyoto"
+	},
+	{
+		"ID" : 543,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Коти",
+		"NAME_EN" : "Kochi",
+		"NAME_RO" : "Kochi"
+	},
+	{
+		"ID" : 544,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Кумамото",
+		"NAME_EN" : "Kumamoto",
+		"NAME_RO" : "Kumamoto"
+	},
+	{
+		"ID" : 545,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Миэ",
+		"NAME_EN" : "Mie",
+		"NAME_RO" : "Mie"
+	},
+	{
+		"ID" : 546,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Мияги",
+		"NAME_EN" : "Miyagi",
+		"NAME_RO" : "Miyagi"
+	},
+	{
+		"ID" : 547,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Миядзаки",
+		"NAME_EN" : "Miyazaki",
+		"NAME_RO" : "Miyazaki"
+	},
+	{
+		"ID" : 548,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Нагано",
+		"NAME_EN" : "Nagano",
+		"NAME_RO" : "Nagano"
+	},
+	{
+		"ID" : 549,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Нагасаки",
+		"NAME_EN" : "Nagasaki",
+		"NAME_RO" : "Nagasaki"
+	},
+	{
+		"ID" : 550,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Нара",
+		"NAME_EN" : "Nara",
+		"NAME_RO" : "Nara"
+	},
+	{
+		"ID" : 551,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Ниигата",
+		"NAME_EN" : "Niigata",
+		"NAME_RO" : "Niigata"
+	},
+	{
+		"ID" : 552,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Окаяма",
+		"NAME_EN" : "Okayama",
+		"NAME_RO" : "Okayama"
+	},
+	{
+		"ID" : 553,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Окинава",
+		"NAME_EN" : "Okinawa",
+		"NAME_RO" : "Okinawa"
+	},
+	{
+		"ID" : 554,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Осака",
+		"NAME_EN" : "Osaka",
+		"NAME_RO" : "Osaka"
+	},
+	{
+		"ID" : 555,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Сага",
+		"NAME_EN" : "Saga",
+		"NAME_RO" : "Saga"
+	},
+	{
+		"ID" : 556,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Сайтама",
+		"NAME_EN" : "Saitama",
+		"NAME_RO" : "Saitama"
+	},
+	{
+		"ID" : 557,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Сига",
+		"NAME_EN" : "Shiga",
+		"NAME_RO" : "Shiga"
+	},
+	{
+		"ID" : 558,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Сидзуока",
+		"NAME_EN" : "Shizuoka",
+		"NAME_RO" : "Shizuoka"
+	},
+	{
+		"ID" : 559,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Симане",
+		"NAME_EN" : "Shimane",
+		"NAME_RO" : "Shimane"
+	},
+	{
+		"ID" : 560,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Тиба",
+		"NAME_EN" : "Chiba",
+		"NAME_RO" : "Chiba"
+	},
+	{
+		"ID" : 561,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Токио",
+		"NAME_EN" : "Tokyo",
+		"NAME_RO" : "Tokyo"
+	},
+	{
+		"ID" : 562,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Токусима",
+		"NAME_EN" : "Tokushima",
+		"NAME_RO" : "Tokushima"
+	},
+	{
+		"ID" : 563,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Тотиги",
+		"NAME_EN" : "Tochigi",
+		"NAME_RO" : "Tochigi"
+	},
+	{
+		"ID" : 564,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Тоттори",
+		"NAME_EN" : "Tottori",
+		"NAME_RO" : "Tottori"
+	},
+	{
+		"ID" : 565,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Тояма",
+		"NAME_EN" : "Toyama",
+		"NAME_RO" : "Toyama"
+	},
+	{
+		"ID" : 566,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Фукуи",
+		"NAME_EN" : "Fukui",
+		"NAME_RO" : "Fukui"
+	},
+	{
+		"ID" : 567,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Фукуока",
+		"NAME_EN" : "Fukuoka",
+		"NAME_RO" : "Fukuoka"
+	},
+	{
+		"ID" : 568,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Фукусима",
+		"NAME_EN" : "Fukushima",
+		"NAME_RO" : "Fukushima"
+	},
+	{
+		"ID" : 569,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Хиросима",
+		"NAME_EN" : "Hiroshima",
+		"NAME_RO" : "Hiroshima"
+	},
+	{
+		"ID" : 570,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Хоккайдо",
+		"NAME_EN" : "Hokkaido",
+		"NAME_RO" : "Hokkaido"
+	},
+	{
+		"ID" : 571,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Хпого",
+		"NAME_EN" : "Hpogo",
+		"NAME_RO" : "Hpogo"
+	},
+	{
+		"ID" : 572,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Эхиме",
+		"NAME_EN" : "Ehime",
+		"NAME_RO" : "Ehime"
+	},
+	{
+		"ID" : 573,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Ямагата",
+		"NAME_EN" : "Yamagata",
+		"NAME_RO" : "Yamagata"
+	},
+	{
+		"ID" : 574,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Ямагути",
+		"NAME_EN" : "Yamaguchi",
+		"NAME_RO" : "Yamaguchi"
+	},
+	{
+		"ID" : 575,
+		"COUNTRY_ID" : 114,
+		"NAME_RU" : "Яманаси",
+		"NAME_EN" : "Yamanashi",
+		"NAME_RO" : "Yamanashi"
+	},
+	{
+		"ID" : 576,
+		"COUNTRY_ID" : 101,
+		"NAME_RU" : "Гонконг",
+		"NAME_EN" : "Hong Kong",
+		"NAME_RO" : "Hong Kong"
+	},
+	{
+		"ID" : 577,
+		"COUNTRY_ID" : 105,
+		"NAME_RU" : "Индонезия",
+		"NAME_EN" : "Indonesia",
+		"NAME_RO" : "Indonesia"
+	},
+	{
+		"ID" : 578,
+		"COUNTRY_ID" : 116,
+		"NAME_RU" : "Иордания",
+		"NAME_EN" : "Jordan",
+		"NAME_RO" : "Jordan"
+	},
+	{
+		"ID" : 579,
+		"COUNTRY_ID" : 135,
+		"NAME_RU" : "Малайзия",
+		"NAME_EN" : "Malaysia",
+		"NAME_RO" : "Malaysia"
+	},
+	{
+		"ID" : 580,
+		"COUNTRY_ID" : 202,
+		"NAME_RU" : "Сингапур",
+		"NAME_EN" : "Singapore",
+		"NAME_RO" : "Singapore"
+	},
+	{
+		"ID" : 581,
+		"COUNTRY_ID" : 221,
+		"NAME_RU" : "Тайвань",
+		"NAME_EN" : "Taiwan",
+		"NAME_RO" : "Taiwan"
+	},
+	{
+		"ID" : 582,
+		"COUNTRY_ID" : 165,
+		"NAME_RU" : "Корея",
+		"NAME_EN" : "Korea",
+		"NAME_RO" : "Korea"
+	},
+	{
+		"ID" : 620,
+		"COUNTRY_ID" : 24,
+		"NAME_RU" : "Гамильтон",
+		"NAME_EN" : "Hamilton",
+		"NAME_RO" : "Hamilton"
+	},
+	{
+		"ID" : 621,
+		"COUNTRY_ID" : 97,
+		"NAME_RU" : "Артибони́т",
+		"NAME_EN" : "Artibonite",
+		"NAME_RO" : "Artibonite"
+	},
+	{
+		"ID" : 622,
+		"COUNTRY_ID" : 97,
+		"NAME_RU" : "Гранд-Анс",
+		"NAME_EN" : "Grand`Anse",
+		"NAME_RO" : "Grand`Anse"
+	},
+	{
+		"ID" : 623,
+		"COUNTRY_ID" : 97,
+		"NAME_RU" : "Северо-Западный",
+		"NAME_EN" : "Nord-Ouest",
+		"NAME_RO" : "Nord-Ouest"
+	},
+	{
+		"ID" : 624,
+		"COUNTRY_ID" : 97,
+		"NAME_RU" : "Западный",
+		"NAME_EN" : "Ouest",
+		"NAME_RO" : "Ouest"
+	},
+	{
+		"ID" : 625,
+		"COUNTRY_ID" : 97,
+		"NAME_RU" : "Южный",
+		"NAME_EN" : "Sud",
+		"NAME_RO" : "Sud"
+	},
+	{
+		"ID" : 626,
+		"COUNTRY_ID" : 97,
+		"NAME_RU" : "Юго-Восточный",
+		"NAME_EN" : "Sud-Est",
+		"NAME_RO" : "Sud-Est"
+	},
+	{
+		"ID" : 627,
+		"COUNTRY_ID" : 90,
+		"NAME_RU" : "Пуэнт-а-Питр",
+		"NAME_EN" : "Pointe-a-Pitre",
+		"NAME_RO" : "Pointe-a-Pitre"
+	},
+	{
+		"ID" : 628,
+		"COUNTRY_ID" : 90,
+		"NAME_RU" : "Бас-Тер",
+		"NAME_EN" : "Basse-Terre",
+		"NAME_RO" : "Basse-Terre"
+	},
+	{
+		"ID" : 629,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Альберта",
+		"NAME_EN" : "Alberta",
+		"NAME_RO" : "Alberta"
+	},
+	{
+		"ID" : 630,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Британская Колумбия",
+		"NAME_EN" : "British Columbia",
+		"NAME_RO" : "British Columbia"
+	},
+	{
+		"ID" : 631,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Квебек",
+		"NAME_EN" : "Quebec",
+		"NAME_RO" : "Quebec"
+	},
+	{
+		"ID" : 632,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Манитоба",
+		"NAME_EN" : "Manitoba",
+		"NAME_RO" : "Manitoba"
+	},
+	{
+		"ID" : 633,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Новая Шотландия",
+		"NAME_EN" : "Nova Scotia",
+		"NAME_RO" : "Nova Scotia"
+	},
+	{
+		"ID" : 634,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Нью-Брунсвик",
+		"NAME_EN" : "New Brunswick",
+		"NAME_RO" : "New Brunswick"
+	},
+	{
+		"ID" : 635,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Ньюфаундленд",
+		"NAME_EN" : "Newfoundland",
+		"NAME_RO" : "Newfoundland"
+	},
+	{
+		"ID" : 636,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Онтарио",
+		"NAME_EN" : "Ontario",
+		"NAME_RO" : "Ontario"
+	},
+	{
+		"ID" : 637,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Принц Эдуард",
+		"NAME_EN" : "Prince Edward",
+		"NAME_RO" : "Prince Edward"
+	},
+	{
+		"ID" : 638,
+		"COUNTRY_ID" : 42,
+		"NAME_RU" : "Саскачеван",
+		"NAME_EN" : "Saskatchewan",
+		"NAME_RO" : "Saskatchewan"
+	},
+	{
+		"ID" : 639,
+		"COUNTRY_ID" : 56,
+		"NAME_RU" : "Алахуэла",
+		"NAME_EN" : "Alajuela",
+		"NAME_RO" : "Alajuela"
+	},
+	{
+		"ID" : 640,
+		"COUNTRY_ID" : 56,
+		"NAME_RU" : "Гуанакасте",
+		"NAME_EN" : "Guanacaste",
+		"NAME_RO" : "Guanacaste"
+	},
+	{
+		"ID" : 641,
+		"COUNTRY_ID" : 56,
+		"NAME_RU" : "Эредия",
+		"NAME_EN" : "Heredia",
+		"NAME_RO" : "Heredia"
+	},
+	{
+		"ID" : 642,
+		"COUNTRY_ID" : 56,
+		"NAME_RU" : "Лимон",
+		"NAME_EN" : "Limon",
+		"NAME_RO" : "Limon"
+	},
+	{
+		"ID" : 643,
+		"COUNTRY_ID" : 56,
+		"NAME_RU" : "Пунтаренас",
+		"NAME_EN" : "Puntarenas",
+		"NAME_RO" : "Puntarenas"
+	},
+	{
+		"ID" : 644,
+		"COUNTRY_ID" : 56,
+		"NAME_RU" : "Сан-Хосе",
+		"NAME_EN" : "San Jose",
+		"NAME_RO" : "San Jose"
+	},
+	{
+		"ID" : 645,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Агуаскальентес",
+		"NAME_EN" : "Aguascalientes",
+		"NAME_RO" : "Aguascalientes"
+	},
+	{
+		"ID" : 646,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Веракрус",
+		"NAME_EN" : "Veracruz",
+		"NAME_RO" : "Veracruz"
+	},
+	{
+		"ID" : 647,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Герреро",
+		"NAME_EN" : "Guerrero",
+		"NAME_RO" : "Guerrero"
+	},
+	{
+		"ID" : 648,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Гуанахуато",
+		"NAME_EN" : "Guanajuato",
+		"NAME_RO" : "Guanajuato"
+	},
+	{
+		"ID" : 649,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Дуранго",
+		"NAME_EN" : "Durango",
+		"NAME_RO" : "Durango"
+	},
+	{
+		"ID" : 650,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Идальго",
+		"NAME_EN" : "Hidalgo",
+		"NAME_RO" : "Hidalgo"
+	},
+	{
+		"ID" : 651,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Кампече",
+		"NAME_EN" : "Campeche",
+		"NAME_RO" : "Campeche"
+	},
+	{
+		"ID" : 652,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Керетаро",
+		"NAME_EN" : "Queretaro",
+		"NAME_RO" : "Queretaro"
+	},
+	{
+		"ID" : 653,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Керетаро",
+		"NAME_EN" : "Queretaro",
+		"NAME_RO" : "Queretaro"
+	},
+	{
+		"ID" : 654,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Коауила",
+		"NAME_EN" : "Coahuila",
+		"NAME_RO" : "Coahuila"
+	},
+	{
+		"ID" : 655,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Колима",
+		"NAME_EN" : "Colima",
+		"NAME_RO" : "Colima"
+	},
+	{
+		"ID" : 656,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Мехико",
+		"NAME_EN" : "Mexico",
+		"NAME_RO" : "Mexico"
+	},
+	{
+		"ID" : 657,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Мичоакан",
+		"NAME_EN" : "Michoacan",
+		"NAME_RO" : "Michoacan"
+	},
+	{
+		"ID" : 658,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Морелос",
+		"NAME_EN" : "Morelos",
+		"NAME_RO" : "Morelos"
+	},
+	{
+		"ID" : 659,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Наярит",
+		"NAME_EN" : "Nayarit",
+		"NAME_RO" : "Nayarit"
+	},
+	{
+		"ID" : 660,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Нижняя Калифорния",
+		"NAME_EN" : "Baja California",
+		"NAME_RO" : "Baja California"
+	},
+	{
+		"ID" : 661,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Нуэво-Леон",
+		"NAME_EN" : "Nuevo Leon",
+		"NAME_RO" : "Nuevo Leon"
+	},
+	{
+		"ID" : 662,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Оахака",
+		"NAME_EN" : "Oaxaca",
+		"NAME_RO" : "Oaxaca"
+	},
+	{
+		"ID" : 663,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Пуэбла",
+		"NAME_EN" : "Puebla",
+		"NAME_RO" : "Puebla"
+	},
+	{
+		"ID" : 664,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Сакатекас",
+		"NAME_EN" : "Zacatecas",
+		"NAME_RO" : "Zacatecas"
+	},
+	{
+		"ID" : 665,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Сан-Луис-Потоси",
+		"NAME_EN" : "San Luis Potosi",
+		"NAME_RO" : "San Luis Potosi"
+	},
+	{
+		"ID" : 666,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Синалоа",
+		"NAME_EN" : "Sinaloa",
+		"NAME_RO" : "Sinaloa"
+	},
+	{
+		"ID" : 667,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Сонора",
+		"NAME_EN" : "Sonora",
+		"NAME_RO" : "Sonora"
+	},
+	{
+		"ID" : 668,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Табаско",
+		"NAME_EN" : "Tabasco",
+		"NAME_RO" : "Tabasco"
+	},
+	{
+		"ID" : 669,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Тамаулипас",
+		"NAME_EN" : "Tamaulipas",
+		"NAME_RO" : "Tamaulipas"
+	},
+	{
+		"ID" : 670,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Чако",
+		"NAME_EN" : "Chaco",
+		"NAME_RO" : "Chaco"
+	},
+	{
+		"ID" : 671,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Федеральный округ",
+		"NAME_EN" : "Federal district",
+		"NAME_RO" : "Federal district"
+	},
+	{
+		"ID" : 672,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Халиско",
+		"NAME_EN" : "Jalisco",
+		"NAME_RO" : "Jalisco"
+	},
+	{
+		"ID" : 673,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Чиуауа",
+		"NAME_EN" : "Chihuahua",
+		"NAME_RO" : "Chihuahua"
+	},
+	{
+		"ID" : 674,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Чьяпас",
+		"NAME_EN" : "Chiapas",
+		"NAME_RO" : "Chiapas"
+	},
+	{
+		"ID" : 675,
+		"COUNTRY_ID" : 144,
+		"NAME_RU" : "Юкатан",
+		"NAME_EN" : "Yucatan",
+		"NAME_RO" : "Yucatan"
+	},
+	{
+		"ID" : 676,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Ауачапан",
+		"NAME_EN" : "Ahuachapan",
+		"NAME_RO" : "Ahuachapan"
+	},
+	{
+		"ID" : 677,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Кускатлан",
+		"NAME_EN" : "Cuscatlan",
+		"NAME_RO" : "Cuscatlan"
+	},
+	{
+		"ID" : 678,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Ла-Либертад",
+		"NAME_EN" : "La Libertad",
+		"NAME_RO" : "La Libertad"
+	},
+	{
+		"ID" : 679,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Ла-Пас",
+		"NAME_EN" : "La Paz",
+		"NAME_RO" : "La Paz"
+	},
+	{
+		"ID" : 680,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Ла-Унион",
+		"NAME_EN" : "La Union",
+		"NAME_RO" : "La Union"
+	},
+	{
+		"ID" : 681,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Сан-Мигель",
+		"NAME_EN" : "San Miguel",
+		"NAME_RO" : "San Miguel"
+	},
+	{
+		"ID" : 682,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Сан-Сальвадор",
+		"NAME_EN" : "San Salvador",
+		"NAME_RO" : "San Salvador"
+	},
+	{
+		"ID" : 683,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Санта-Ана",
+		"NAME_EN" : "Santa Ana",
+		"NAME_RO" : "Santa Ana"
+	},
+	{
+		"ID" : 684,
+		"COUNTRY_ID" : 68,
+		"NAME_RU" : "Сонсонате",
+		"NAME_EN" : "Sonsonate",
+		"NAME_RO" : "Sonsonate"
+	},
+	{
+		"ID" : 685,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Айдахо",
+		"NAME_EN" : "Idaho",
+		"NAME_RO" : "Idaho"
+	},
+	{
+		"ID" : 686,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Айова",
+		"NAME_EN" : "Iowa",
+		"NAME_RO" : "Iowa"
+	},
+	{
+		"ID" : 687,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Алабама",
+		"NAME_EN" : "Alabama",
+		"NAME_RO" : "Alabama"
+	},
+	{
+		"ID" : 688,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Аляска",
+		"NAME_EN" : "Alaska",
+		"NAME_RO" : "Alaska"
+	},
+	{
+		"ID" : 689,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Аризона",
+		"NAME_EN" : "Arizona",
+		"NAME_RO" : "Arizona"
+	},
+	{
+		"ID" : 690,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Арканзас",
+		"NAME_EN" : "Arkanzas",
+		"NAME_RO" : "Arkanzas"
+	},
+	{
+		"ID" : 691,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Вайоминг",
+		"NAME_EN" : "Wyoming",
+		"NAME_RO" : "Wyoming"
+	},
+	{
+		"ID" : 692,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Вашингтон",
+		"NAME_EN" : "Washington",
+		"NAME_RO" : "Washington"
+	},
+	{
+		"ID" : 693,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Вермонт",
+		"NAME_EN" : "Vermont",
+		"NAME_RO" : "Vermont"
+	},
+	{
+		"ID" : 694,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Виргиния",
+		"NAME_EN" : "Virginia",
+		"NAME_RO" : "Virginia"
+	},
+	{
+		"ID" : 695,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Висконсин",
+		"NAME_EN" : "Wisconsin",
+		"NAME_RO" : "Wisconsin"
+	},
+	{
+		"ID" : 696,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Гаваи",
+		"NAME_EN" : "Hawaii",
+		"NAME_RO" : "Hawaii"
+	},
+	{
+		"ID" : 697,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Делавар",
+		"NAME_EN" : "Delaware",
+		"NAME_RO" : "Delaware"
+	},
+	{
+		"ID" : 698,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Джорджия",
+		"NAME_EN" : "Georgia",
+		"NAME_RO" : "Georgia"
+	},
+	{
+		"ID" : 699,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Западная Виргиния",
+		"NAME_EN" : "West Virginia",
+		"NAME_RO" : "West Virginia"
+	},
+	{
+		"ID" : 700,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Иллинойс",
+		"NAME_EN" : "Illinois",
+		"NAME_RO" : "Illinois"
+	},
+	{
+		"ID" : 701,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Индиана",
+		"NAME_EN" : "Indiana",
+		"NAME_RO" : "Indiana"
+	},
+	{
+		"ID" : 702,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Калифорния",
+		"NAME_EN" : "California",
+		"NAME_RO" : "California"
+	},
+	{
+		"ID" : 703,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Канзас",
+		"NAME_EN" : "Kansas",
+		"NAME_RO" : "Kansas"
+	},
+	{
+		"ID" : 704,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Кентукки",
+		"NAME_EN" : "Kentucky",
+		"NAME_RO" : "Kentucky"
+	},
+	{
+		"ID" : 705,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Колорадо",
+		"NAME_EN" : "Colorado",
+		"NAME_RO" : "Colorado"
+	},
+	{
+		"ID" : 706,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Коннектикут",
+		"NAME_EN" : "Connecticut",
+		"NAME_RO" : "Connecticut"
+	},
+	{
+		"ID" : 707,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Луизиана",
+		"NAME_EN" : "Louisiana",
+		"NAME_RO" : "Louisiana"
+	},
+	{
+		"ID" : 708,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Массачусетс",
+		"NAME_EN" : "Massachusetts",
+		"NAME_RO" : "Massachusetts"
+	},
+	{
+		"ID" : 709,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Миннесота",
+		"NAME_EN" : "Minnesota",
+		"NAME_RO" : "Minnesota"
+	},
+	{
+		"ID" : 710,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Миссисипи",
+		"NAME_EN" : "Mississippi",
+		"NAME_RO" : "Mississippi"
+	},
+	{
+		"ID" : 711,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Миссури",
+		"NAME_EN" : "Missouri",
+		"NAME_RO" : "Missouri"
+	},
+	{
+		"ID" : 712,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Мичиган",
+		"NAME_EN" : "Michigan",
+		"NAME_RO" : "Michigan"
+	},
+	{
+		"ID" : 713,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Монтана",
+		"NAME_EN" : "Montana",
+		"NAME_RO" : "Montana"
+	},
+	{
+		"ID" : 714,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Мэн",
+		"NAME_EN" : "Maine",
+		"NAME_RO" : "Maine"
+	},
+	{
+		"ID" : 715,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Мэриленд",
+		"NAME_EN" : "Maryland",
+		"NAME_RO" : "Maryland"
+	},
+	{
+		"ID" : 716,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Небраска",
+		"NAME_EN" : "Nebraska",
+		"NAME_RO" : "Nebraska"
+	},
+	{
+		"ID" : 717,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Невада",
+		"NAME_EN" : "Nevada",
+		"NAME_RO" : "Nevada"
+	},
+	{
+		"ID" : 718,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Нью-Гэмпшир",
+		"NAME_EN" : "New Hampshire",
+		"NAME_RO" : "New Hampshire"
+	},
+	{
+		"ID" : 719,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Нью-Джерси",
+		"NAME_EN" : "New Jersey",
+		"NAME_RO" : "New Jersey"
+	},
+	{
+		"ID" : 720,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Нью-Йорк",
+		"NAME_EN" : "New York",
+		"NAME_RO" : "New York"
+	},
+	{
+		"ID" : 721,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Нью-Мексико",
+		"NAME_EN" : "New Mexico",
+		"NAME_RO" : "New Mexico"
+	},
+	{
+		"ID" : 722,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Огайо",
+		"NAME_EN" : "Ohio",
+		"NAME_RO" : "Ohio"
+	},
+	{
+		"ID" : 723,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Оклахома",
+		"NAME_EN" : "Oklahoma",
+		"NAME_RO" : "Oklahoma"
+	},
+	{
+		"ID" : 724,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "окр. Колумбия",
+		"NAME_EN" : "District Colombia",
+		"NAME_RO" : "District Colombia"
+	},
+	{
+		"ID" : 725,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Орегон",
+		"NAME_EN" : "Oregon",
+		"NAME_RO" : "Oregon"
+	},
+	{
+		"ID" : 726,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Пенсильвания",
+		"NAME_EN" : "Pennsylvania",
+		"NAME_RO" : "Pennsylvania"
+	},
+	{
+		"ID" : 727,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Род-Айленд",
+		"NAME_EN" : "Rhode Island",
+		"NAME_RO" : "Rhode Island"
+	},
+	{
+		"ID" : 728,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Северная Дакота",
+		"NAME_EN" : "North Dakota",
+		"NAME_RO" : "North Dakota"
+	},
+	{
+		"ID" : 729,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Северная Каролина",
+		"NAME_EN" : "North Carolina",
+		"NAME_RO" : "North Carolina"
+	},
+	{
+		"ID" : 730,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Теннесси",
+		"NAME_EN" : "Tennessee",
+		"NAME_RO" : "Tennessee"
+	},
+	{
+		"ID" : 731,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Техас",
+		"NAME_EN" : "Texas",
+		"NAME_RO" : "Texas"
+	},
+	{
+		"ID" : 732,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Флорида",
+		"NAME_EN" : "Florida",
+		"NAME_RO" : "Florida"
+	},
+	{
+		"ID" : 733,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Южная Дакота",
+		"NAME_EN" : "South Dakota",
+		"NAME_RO" : "South Dakota"
+	},
+	{
+		"ID" : 734,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Южная Каролина",
+		"NAME_EN" : "South Carolina",
+		"NAME_RO" : "South Carolina"
+	},
+	{
+		"ID" : 735,
+		"COUNTRY_ID" : 239,
+		"NAME_RU" : "Юта",
+		"NAME_EN" : "Utah",
+		"NAME_RO" : "Utah"
+	},
+	{
+		"ID" : 736,
+		"COUNTRY_ID" : 89,
+		"NAME_RU" : "Гранд-Тёрк",
+		"NAME_EN" : "Grand Turk",
+		"NAME_RO" : "Grand Turk"
+	},
+	{
+		"ID" : 737,
+		"COUNTRY_ID" : 90,
+		"NAME_RU" : "Багамы",
+		"NAME_EN" : "the Bahamas",
+		"NAME_RO" : "the Bahamas"
+	},
+	{
+		"ID" : 738,
+		"COUNTRY_ID" : 58,
+		"NAME_RU" : "Гавана",
+		"NAME_EN" : "Havana",
+		"NAME_RO" : "Havana"
+	},
+	{
+		"ID" : 739,
+		"COUNTRY_ID" : 113,
+		"NAME_RU" : "Ямайка",
+		"NAME_EN" : "Jamaica",
+		"NAME_RO" : "Jamaica"
+	},
+	{
+		"ID" : 740,
+		"COUNTRY_ID" : 100,
+		"NAME_RU" : "Тегусигальпа",
+		"NAME_EN" : "Tegucigalpa",
+		"NAME_RO" : "Tegucigalpa"
+	},
+	{
+		"ID" : 741,
+		"COUNTRY_ID" : 65,
+		"NAME_RU" : "Санто-доминго",
+		"NAME_EN" : "Santo Domingo",
+		"NAME_RO" : "Santo Domingo"
+	},
+	{
+		"ID" : 742,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Буэнос-Айрес",
+		"NAME_EN" : "Buenos Aires",
+		"NAME_RO" : "Buenos Aires"
+	},
+	{
+		"ID" : 743,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Жужуй",
+		"NAME_EN" : "Jujuy",
+		"NAME_RO" : "Jujuy"
+	},
+	{
+		"ID" : 744,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Катамарка",
+		"NAME_EN" : "Catamarca",
+		"NAME_RO" : "Catamarca"
+	},
+	{
+		"ID" : 745,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Кордоба",
+		"NAME_EN" : "Cordoba",
+		"NAME_RO" : "Cordoba"
+	},
+	{
+		"ID" : 746,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Корриентес",
+		"NAME_EN" : "Corrientes",
+		"NAME_RO" : "Corrientes"
+	},
+	{
+		"ID" : 747,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Ла-Пампа",
+		"NAME_EN" : "La Pampa",
+		"NAME_RO" : "La Pampa"
+	},
+	{
+		"ID" : 748,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Ла-Риоха",
+		"NAME_EN" : "La Rioja",
+		"NAME_RO" : "La Rioja"
+	},
+	{
+		"ID" : 749,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Мендоса",
+		"NAME_EN" : "Mendoza",
+		"NAME_RO" : "Mendoza"
+	},
+	{
+		"ID" : 750,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Мисьонес",
+		"NAME_EN" : "Misiones",
+		"NAME_RO" : "Misiones"
+	},
+	{
+		"ID" : 751,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Неукен",
+		"NAME_EN" : "Neuquen",
+		"NAME_RO" : "Neuquen"
+	},
+	{
+		"ID" : 752,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Сальта",
+		"NAME_EN" : "Salta",
+		"NAME_RO" : "Salta"
+	},
+	{
+		"ID" : 753,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Сан-Луис",
+		"NAME_EN" : "San Luis",
+		"NAME_RO" : "San Luis"
+	},
+	{
+		"ID" : 754,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Сан-Хуан",
+		"NAME_EN" : "San Juan",
+		"NAME_RO" : "San Juan"
+	},
+	{
+		"ID" : 755,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Санта-Крус",
+		"NAME_EN" : "Santa Cruz",
+		"NAME_RO" : "Santa Cruz"
+	},
+	{
+		"ID" : 756,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Санта-Фе",
+		"NAME_EN" : "Santa Fe",
+		"NAME_RO" : "Santa Fe"
+	},
+	{
+		"ID" : 757,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Сантьяго-дель-Эстеро",
+		"NAME_EN" : "Santiago del Estero",
+		"NAME_RO" : "Santiago del Estero"
+	},
+	{
+		"ID" : 758,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Тукуман",
+		"NAME_EN" : "Tucuman",
+		"NAME_RO" : "Tucuman"
+	},
+	{
+		"ID" : 759,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Формоса",
+		"NAME_EN" : "Formosa",
+		"NAME_RO" : "Formosa"
+	},
+	{
+		"ID" : 760,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Чубут",
+		"NAME_EN" : "Chubut",
+		"NAME_RO" : "Chubut"
+	},
+	{
+		"ID" : 761,
+		"COUNTRY_ID" : 10,
+		"NAME_RU" : "Энтре-Риос",
+		"NAME_EN" : "Entre Rios",
+		"NAME_RO" : "Entre Rios"
+	},
+	{
+		"ID" : 762,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Акри",
+		"NAME_EN" : "Acre",
+		"NAME_RO" : "Acre"
+	},
+	{
+		"ID" : 763,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Алагоас",
+		"NAME_EN" : "Alagoas",
+		"NAME_RO" : "Alagoas"
+	},
+	{
+		"ID" : 764,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Амазонас",
+		"NAME_EN" : "Amazonas",
+		"NAME_RO" : "Amazonas"
+	},
+	{
+		"ID" : 765,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Амапа",
+		"NAME_EN" : "Amapá",
+		"NAME_RO" : "Amapá"
+	},
+	{
+		"ID" : 766,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Баия",
+		"NAME_EN" : "Bahia",
+		"NAME_RO" : "Bahia"
+	},
+	{
+		"ID" : 767,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Гояс",
+		"NAME_EN" : "Goias",
+		"NAME_RO" : "Goias"
+	},
+	{
+		"ID" : 768,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Мараньян",
+		"NAME_EN" : "Maranhao",
+		"NAME_RO" : "Maranhao"
+	},
+	{
+		"ID" : 769,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Мату-Гросу",
+		"NAME_EN" : "Mato Grosso",
+		"NAME_RO" : "Mato Grosso"
+	},
+	{
+		"ID" : 770,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Мату-Гросу-ду-Сул",
+		"NAME_EN" : "Mato Grosso do Sul",
+		"NAME_RO" : "Mato Grosso do Sul"
+	},
+	{
+		"ID" : 771,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Минас-Жерайс",
+		"NAME_EN" : "Minas Gerais",
+		"NAME_RO" : "Minas Gerais"
+	},
+	{
+		"ID" : 772,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Пара",
+		"NAME_EN" : "Pará",
+		"NAME_RO" : "Pará"
+	},
+	{
+		"ID" : 773,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Параиба",
+		"NAME_EN" : "Paraíba",
+		"NAME_RO" : "Paraíba"
+	},
+	{
+		"ID" : 774,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Парана",
+		"NAME_EN" : "Parana",
+		"NAME_RO" : "Parana"
+	},
+	{
+		"ID" : 775,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Пернамбуку",
+		"NAME_EN" : "Pernambuco",
+		"NAME_RO" : "Pernambuco"
+	},
+	{
+		"ID" : 776,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Пиауи",
+		"NAME_EN" : "Piauí",
+		"NAME_RO" : "Piauí"
+	},
+	{
+		"ID" : 777,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Рио-де-Жанейро",
+		"NAME_EN" : "Rio de Janeiro",
+		"NAME_RO" : "Rio de Janeiro"
+	},
+	{
+		"ID" : 778,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Риу-Гранди-ду-Норти",
+		"NAME_EN" : "Rio Grande do Norte",
+		"NAME_RO" : "Rio Grande do Norte"
+	},
+	{
+		"ID" : 779,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Риу-Гранди-ду-Сул",
+		"NAME_EN" : "Rio Grande do Sul",
+		"NAME_RO" : "Rio Grande do Sul"
+	},
+	{
+		"ID" : 780,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Рондония",
+		"NAME_EN" : "Rondônia",
+		"NAME_RO" : "Rondônia"
+	},
+	{
+		"ID" : 781,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Сан-Паулу",
+		"NAME_EN" : "Sao Paulo",
+		"NAME_RO" : "Sao Paulo"
+	},
+	{
+		"ID" : 782,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Санта-Катарина",
+		"NAME_EN" : "Santa Catarina",
+		"NAME_RO" : "Santa Catarina"
+	},
+	{
+		"ID" : 783,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Сеара",
+		"NAME_EN" : "Ceara",
+		"NAME_RO" : "Ceara"
+	},
+	{
+		"ID" : 784,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Сержипи",
+		"NAME_EN" : "Sergipe",
+		"NAME_RO" : "Sergipe"
+	},
+	{
+		"ID" : 785,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Федеральный округ Бразилиа",
+		"NAME_EN" : "Federal district Brazil",
+		"NAME_RO" : "Federal district Brazil"
+	},
+	{
+		"ID" : 786,
+		"COUNTRY_ID" : 31,
+		"NAME_RU" : "Эспириту-Санту",
+		"NAME_EN" : "Espirito Santo",
+		"NAME_RO" : "Espirito Santo"
+	},
+	{
+		"ID" : 787,
+		"COUNTRY_ID" : 179,
+		"NAME_RU" : "O-ва Мадейра",
+		"NAME_EN" : "Madeira",
+		"NAME_RO" : "Madeira"
+	},
+	{
+		"ID" : 788,
+		"COUNTRY_ID" : 179,
+		"NAME_RU" : "Лисабон",
+		"NAME_EN" : "Lisbon",
+		"NAME_RO" : "Lisbon"
+	},
+	{
+		"ID" : 789,
+		"COUNTRY_ID" : 179,
+		"NAME_RU" : "Орта",
+		"NAME_EN" : "Orta",
+		"NAME_RO" : "Orta"
+	},
+	{
+		"ID" : 790,
+		"COUNTRY_ID" : 179,
+		"NAME_RU" : "Фаро",
+		"NAME_EN" : "Faro",
+		"NAME_RO" : "Faro"
+	},
+	{
+		"ID" : 791,
+		"COUNTRY_ID" : 215,
+		"NAME_RU" : "Парамарибо",
+		"NAME_EN" : "Paramaribo",
+		"NAME_RO" : "Paramaribo"
+	},
+	{
+		"ID" : 792,
+		"COUNTRY_ID" : 47,
+		"NAME_RU" : "Сантьяго",
+		"NAME_EN" : "Santiago",
+		"NAME_RO" : "Santiago"
+	},
+	{
+		"ID" : 793,
+		"COUNTRY_ID" : 175,
+		"NAME_RU" : "Перу",
+		"NAME_EN" : "Peru",
+		"NAME_RO" : "Peru"
+	},
+	{
+		"ID" : 794,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "Виктория",
+		"NAME_EN" : "Victoria",
+		"NAME_RO" : "Victoria"
+	},
+	{
+		"ID" : 795,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "Западная Австралия",
+		"NAME_EN" : "Western Australia",
+		"NAME_RO" : "Western Australia"
+	},
+	{
+		"ID" : 796,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "Кинсленд",
+		"NAME_EN" : "Kinsland",
+		"NAME_RO" : "Kinsland"
+	},
+	{
+		"ID" : 797,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "Новый Южный Уэльс",
+		"NAME_EN" : "New South Wales",
+		"NAME_RO" : "New South Wales"
+	},
+	{
+		"ID" : 798,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "Северная Территория",
+		"NAME_EN" : "Northern Territory",
+		"NAME_RO" : "Northern Territory"
+	},
+	{
+		"ID" : 799,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "Тасмания",
+		"NAME_EN" : "Tasmania",
+		"NAME_RO" : "Tasmania"
+	},
+	{
+		"ID" : 800,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "Южная Австралия",
+		"NAME_EN" : "South Australia",
+		"NAME_RO" : "South Australia"
+	},
+	{
+		"ID" : 801,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "erg",
+		"NAME_EN" : "erg",
+		"NAME_RO" : "erg"
+	},
+	{
+		"ID" : 802,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "О́кленд",
+		"NAME_EN" : "Auckland",
+		"NAME_RO" : "Auckland"
+	},
+	{
+		"ID" : 803,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Бей-оф-Пленти",
+		"NAME_EN" : "Bay of Plenty",
+		"NAME_RO" : "Bay of Plenty"
+	},
+	{
+		"ID" : 804,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Кентербери",
+		"NAME_EN" : "Canterbury",
+		"NAME_RO" : "Canterbury"
+	},
+	{
+		"ID" : 805,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Гисборн",
+		"NAME_EN" : "Gisborne",
+		"NAME_RO" : "Gisborne"
+	},
+	{
+		"ID" : 806,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Хокс-Бей",
+		"NAME_EN" : "Hawke`s Bay",
+		"NAME_RO" : "Hawke`s Bay"
+	},
+	{
+		"ID" : 807,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Манавату-Уангануи",
+		"NAME_EN" : "Manawatu-Wanganui",
+		"NAME_RO" : "Manawatu-Wanganui"
+	},
+	{
+		"ID" : 808,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Ма́рлборо",
+		"NAME_EN" : "Marlborough",
+		"NAME_RO" : "Marlborough"
+	},
+	{
+		"ID" : 809,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Нельсон",
+		"NAME_EN" : "Nelson",
+		"NAME_RO" : "Nelson"
+	},
+	{
+		"ID" : 810,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Нортленд",
+		"NAME_EN" : "Northland",
+		"NAME_RO" : "Northland"
+	},
+	{
+		"ID" : 811,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Отаго",
+		"NAME_EN" : "Otago",
+		"NAME_RO" : "Otago"
+	},
+	{
+		"ID" : 812,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Саутленд",
+		"NAME_EN" : "Southland",
+		"NAME_RO" : "Southland"
+	},
+	{
+		"ID" : 813,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Таранаки",
+		"NAME_EN" : "Taranaki",
+		"NAME_RO" : "Taranaki"
+	},
+	{
+		"ID" : 814,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Тасман",
+		"NAME_EN" : "Tasman",
+		"NAME_RO" : "Tasman"
+	},
+	{
+		"ID" : 815,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Уаикато",
+		"NAME_EN" : "Waikato",
+		"NAME_RO" : "Waikato"
+	},
+	{
+		"ID" : 816,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Веллингтон",
+		"NAME_EN" : "Wellington",
+		"NAME_RO" : "Wellington"
+	},
+	{
+		"ID" : 817,
+		"COUNTRY_ID" : 159,
+		"NAME_RU" : "Уэст-Кост",
+		"NAME_EN" : "West Coast",
+		"NAME_RO" : "West Coast"
+	},
+	{
+		"ID" : 818,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Алтайский край",
+		"NAME_EN" : "Altai region",
+		"NAME_RO" : "Altai region"
+	},
+	{
+		"ID" : 819,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Амурская обл.",
+		"NAME_EN" : "Amur region",
+		"NAME_RO" : "Amur region"
+	},
+	{
+		"ID" : 820,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Архангельская обл.",
+		"NAME_EN" : "Arkhangelsk region",
+		"NAME_RO" : "Arkhangelsk region"
+	},
+	{
+		"ID" : 821,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Астраханская обл.",
+		"NAME_EN" : "Astrakhan region",
+		"NAME_RO" : "Astrakhan region"
+	},
+	{
+		"ID" : 822,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Башкортостан(Башкирия)",
+		"NAME_EN" : "Bashkortostan (Bashkiria)",
+		"NAME_RO" : "Bashkortostan (Bashkiria)"
+	},
+	{
+		"ID" : 823,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Белгородская обл.",
+		"NAME_EN" : "Belgorod region",
+		"NAME_RO" : "Belgorod region"
+	},
+	{
+		"ID" : 824,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Брянская обл.",
+		"NAME_EN" : "Bryansk region",
+		"NAME_RO" : "Bryansk region"
+	},
+	{
+		"ID" : 825,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Бурятия",
+		"NAME_EN" : "Buryatia",
+		"NAME_RO" : "Buryatia"
+	},
+	{
+		"ID" : 826,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Владимирская обл.",
+		"NAME_EN" : "Vladimir region",
+		"NAME_RO" : "Vladimir region"
+	},
+	{
+		"ID" : 827,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Волгоградская обл.",
+		"NAME_EN" : "Volgograd region",
+		"NAME_RO" : "Volgograd region"
+	},
+	{
+		"ID" : 828,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Вологодская обл.",
+		"NAME_EN" : "Vologda Region",
+		"NAME_RO" : "Vologda Region"
+	},
+	{
+		"ID" : 829,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Воронежская обл.",
+		"NAME_EN" : "Voronezh region",
+		"NAME_RO" : "Voronezh region"
+	},
+	{
+		"ID" : 830,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Нижегородская (Горьковская)",
+		"NAME_EN" : "Nizhny Novgorod (Gorky)",
+		"NAME_RO" : "Nizhny Novgorod (Gorky)"
+	},
+	{
+		"ID" : 831,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Дагестан",
+		"NAME_EN" : "Dagestan",
+		"NAME_RO" : "Dagestan"
+	},
+	{
+		"ID" : 832,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Еврейская обл.",
+		"NAME_EN" : "Jewish region",
+		"NAME_RO" : "Jewish region"
+	},
+	{
+		"ID" : 833,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Ивановская обл.",
+		"NAME_EN" : "Ivanovo region",
+		"NAME_RO" : "Ivanovo region"
+	},
+	{
+		"ID" : 834,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Иркутская обл.",
+		"NAME_EN" : "Irkutsk region",
+		"NAME_RO" : "Irkutsk region"
+	},
+	{
+		"ID" : 835,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Кабардино-Балкария",
+		"NAME_EN" : "Kabardino-Balkaria",
+		"NAME_RO" : "Kabardino-Balkaria"
+	},
+	{
+		"ID" : 836,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Калининградская обл.",
+		"NAME_EN" : "Kaliningrad region",
+		"NAME_RO" : "Kaliningrad region"
+	},
+	{
+		"ID" : 837,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Тверская обл.",
+		"NAME_EN" : "Tver region",
+		"NAME_RO" : "Tver region"
+	},
+	{
+		"ID" : 838,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Калмыкия",
+		"NAME_EN" : "Kalmykia",
+		"NAME_RO" : "Kalmykia"
+	},
+	{
+		"ID" : 839,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Калужская обл.",
+		"NAME_EN" : "Kaluga region",
+		"NAME_RO" : "Kaluga region"
+	},
+	{
+		"ID" : 840,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Камчатская обл.",
+		"NAME_EN" : "Kamchatka region",
+		"NAME_RO" : "Kamchatka region"
+	},
+	{
+		"ID" : 841,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Карелия",
+		"NAME_EN" : "Karelia",
+		"NAME_RO" : "Karelia"
+	},
+	{
+		"ID" : 842,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Кемеровская обл.",
+		"NAME_EN" : "Kemerovo region",
+		"NAME_RO" : "Kemerovo region"
+	},
+	{
+		"ID" : 843,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Кировская обл.",
+		"NAME_EN" : "Kirov region",
+		"NAME_RO" : "Kirov region"
+	},
+	{
+		"ID" : 844,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Коми",
+		"NAME_EN" : "Komi",
+		"NAME_RO" : "Komi"
+	},
+	{
+		"ID" : 845,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Костромская обл.",
+		"NAME_EN" : "Kostroma region",
+		"NAME_RO" : "Kostroma region"
+	},
+	{
+		"ID" : 846,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Краснодарский край",
+		"NAME_EN" : "Krasnodar region",
+		"NAME_RO" : "Krasnodar region"
+	},
+	{
+		"ID" : 847,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Красноярский край",
+		"NAME_EN" : "Krasnoyarsk region",
+		"NAME_RO" : "Krasnoyarsk region"
+	},
+	{
+		"ID" : 848,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Курганская обл.",
+		"NAME_EN" : "Kurgan region",
+		"NAME_RO" : "Kurgan region"
+	},
+	{
+		"ID" : 849,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Курская обл.",
+		"NAME_EN" : "Kursk region",
+		"NAME_RO" : "Kursk region"
+	},
+	{
+		"ID" : 850,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Липецкая обл.",
+		"NAME_EN" : "Lipetsk region",
+		"NAME_RO" : "Lipetsk region"
+	},
+	{
+		"ID" : 851,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Магаданская обл.",
+		"NAME_EN" : "Magadan region",
+		"NAME_RO" : "Magadan region"
+	},
+	{
+		"ID" : 852,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Марий Эл",
+		"NAME_EN" : "Mari El",
+		"NAME_RO" : "Mari El"
+	},
+	{
+		"ID" : 853,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Мордовия",
+		"NAME_EN" : "Mordovia",
+		"NAME_RO" : "Mordovia"
+	},
+	{
+		"ID" : 854,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Москва и Московская обл.",
+		"NAME_EN" : "Moscow and Moscow region",
+		"NAME_RO" : "Moscow and Moscow region"
+	},
+	{
+		"ID" : 855,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Мурманская обл.",
+		"NAME_EN" : "Murmansk region",
+		"NAME_RO" : "Murmansk region"
+	},
+	{
+		"ID" : 856,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Новгородская обл.",
+		"NAME_EN" : "Novgorod region",
+		"NAME_RO" : "Novgorod region"
+	},
+	{
+		"ID" : 857,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Новосибирская обл.",
+		"NAME_EN" : "Novosibirsk region",
+		"NAME_RO" : "Novosibirsk region"
+	},
+	{
+		"ID" : 858,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Омская обл.",
+		"NAME_EN" : "Omsk region",
+		"NAME_RO" : "Omsk region"
+	},
+	{
+		"ID" : 859,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Оренбургская обл.",
+		"NAME_EN" : "Orenburg region",
+		"NAME_RO" : "Orenburg region"
+	},
+	{
+		"ID" : 860,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Орловская обл.",
+		"NAME_EN" : "Oryol region",
+		"NAME_RO" : "Oryol region"
+	},
+	{
+		"ID" : 861,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Пензенская обл.",
+		"NAME_EN" : "Penza region",
+		"NAME_RO" : "Penza region"
+	},
+	{
+		"ID" : 862,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Пермская обл.",
+		"NAME_EN" : "Perm region",
+		"NAME_RO" : "Perm region"
+	},
+	{
+		"ID" : 863,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Приморский край",
+		"NAME_EN" : "Primorsky region",
+		"NAME_RO" : "Primorsky region"
+	},
+	{
+		"ID" : 864,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Псковская обл.",
+		"NAME_EN" : "Pskov region",
+		"NAME_RO" : "Pskov region"
+	},
+	{
+		"ID" : 865,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Ростовская обл.",
+		"NAME_EN" : "Rostov region",
+		"NAME_RO" : "Rostov region"
+	},
+	{
+		"ID" : 866,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Рязанская обл.",
+		"NAME_EN" : "Ryazan region",
+		"NAME_RO" : "Ryazan region"
+	},
+	{
+		"ID" : 867,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Самарская обл.",
+		"NAME_EN" : "Samara region",
+		"NAME_RO" : "Samara region"
+	},
+	{
+		"ID" : 868,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Санкт-Петербург и область",
+		"NAME_EN" : "St. Petersburg and the region",
+		"NAME_RO" : "St. Petersburg and the region"
+	},
+	{
+		"ID" : 869,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Саратовская обл.",
+		"NAME_EN" : "Saratov region",
+		"NAME_RO" : "Saratov region"
+	},
+	{
+		"ID" : 870,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Саха (Якутия)",
+		"NAME_EN" : "Sakha (Yakutia)",
+		"NAME_RO" : "Sakha (Yakutia)"
+	},
+	{
+		"ID" : 871,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Сахалин",
+		"NAME_EN" : "Sakhalin",
+		"NAME_RO" : "Sakhalin"
+	},
+	{
+		"ID" : 872,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Свердловская обл.",
+		"NAME_EN" : "Sverdlovsk region",
+		"NAME_RO" : "Sverdlovsk region"
+	},
+	{
+		"ID" : 873,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Северная Осетия",
+		"NAME_EN" : "North Ossetia",
+		"NAME_RO" : "North Ossetia"
+	},
+	{
+		"ID" : 874,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Смоленская обл.",
+		"NAME_EN" : "Smolensk region",
+		"NAME_RO" : "Smolensk region"
+	},
+	{
+		"ID" : 875,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Ставропольский край",
+		"NAME_EN" : "Stavropol region",
+		"NAME_RO" : "Stavropol region"
+	},
+	{
+		"ID" : 876,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Тамбовская обл.",
+		"NAME_EN" : "Tambov region",
+		"NAME_RO" : "Tambov region"
+	},
+	{
+		"ID" : 877,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Татарстан",
+		"NAME_EN" : "Tatarstan",
+		"NAME_RO" : "Tatarstan"
+	},
+	{
+		"ID" : 878,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Томская обл.",
+		"NAME_EN" : "Tomsk region",
+		"NAME_RO" : "Tomsk region"
+	},
+	{
+		"ID" : 879,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Тува (Тувинская Респ.)",
+		"NAME_EN" : "Tuva (Republic of Tuva).",
+		"NAME_RO" : "Tuva (Republic of Tuva)."
+	},
+	{
+		"ID" : 880,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Тульская обл.",
+		"NAME_EN" : "Tula region",
+		"NAME_RO" : "Tula region"
+	},
+	{
+		"ID" : 881,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Тюменская обл.",
+		"NAME_EN" : "Tyumen region",
+		"NAME_RO" : "Tyumen region"
+	},
+	{
+		"ID" : 882,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Удмуртия",
+		"NAME_EN" : "Udmurtia",
+		"NAME_RO" : "Udmurtia"
+	},
+	{
+		"ID" : 883,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Ульяновская обл.",
+		"NAME_EN" : "Ulyanovsk region",
+		"NAME_RO" : "Ulyanovsk region"
+	},
+	{
+		"ID" : 884,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Хабаровский край",
+		"NAME_EN" : "Khabarovsk region",
+		"NAME_RO" : "Khabarovsk region"
+	},
+	{
+		"ID" : 885,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Челябинская обл.",
+		"NAME_EN" : "Chelyabinsk region",
+		"NAME_RO" : "Chelyabinsk region"
+	},
+	{
+		"ID" : 886,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Чечено-Ингушетия",
+		"NAME_EN" : "Chechen-Ingushetia",
+		"NAME_RO" : "Chechen-Ingushetia"
+	},
+	{
+		"ID" : 887,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Забайкальский край",
+		"NAME_EN" : "Transbaikal region",
+		"NAME_RO" : "Transbaikal region"
+	},
+	{
+		"ID" : 888,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Чувашия",
+		"NAME_EN" : "Chuvashia",
+		"NAME_RO" : "Chuvashia"
+	},
+	{
+		"ID" : 889,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Ярославская обл.",
+		"NAME_EN" : "Yaroslavl region",
+		"NAME_RO" : "Yaroslavl region"
+	},
+	{
+		"ID" : 890,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Адыгея",
+		"NAME_EN" : "Adygea",
+		"NAME_RO" : "Adygea"
+	},
+	{
+		"ID" : 891,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Хакасия",
+		"NAME_EN" : "Khakassia",
+		"NAME_RO" : "Khakassia"
+	},
+	{
+		"ID" : 892,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Чукотский АО",
+		"NAME_EN" : "Chukotka",
+		"NAME_RO" : "Chukotka"
+	},
+	{
+		"ID" : 893,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Ханты-Мансийский АО",
+		"NAME_EN" : "the Khanty-Mansi Autonomous Area",
+		"NAME_RO" : "the Khanty-Mansi Autonomous Area"
+	},
+	{
+		"ID" : 894,
+		"COUNTRY_ID" : 185,
+		"NAME_RU" : "Ямало-Ненецкий АО",
+		"NAME_EN" : "Yamal-Nenets autonomous",
+		"NAME_RO" : "Yamal-Nenets autonomous"
+	},
+	{
+		"ID" : 895,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Акмолинская область",
+		"NAME_EN" : "Akmola region",
+		"NAME_RO" : "Akmola region"
+	},
+	{
+		"ID" : 896,
+		"COUNTRY_ID" : 14,
+		"NAME_RU" : "Вена",
+		"NAME_EN" : "Vienna",
+		"NAME_RO" : "Vienna"
+	},
+	{
+		"ID" : 897,
+		"COUNTRY_ID" : 14,
+		"NAME_RU" : "Верхняя Австрия",
+		"NAME_EN" : "Upper Austria",
+		"NAME_RO" : "Upper Austria"
+	},
+	{
+		"ID" : 898,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Столичный регион",
+		"NAME_EN" : "National Capital Region",
+		"NAME_RO" : "National Capital Region"
+	},
+	{
+		"ID" : 899,
+		"COUNTRY_ID" : 123,
+		"NAME_RU" : "Рига",
+		"NAME_EN" : "Riga",
+		"NAME_RO" : "Riga"
+	},
+	{
+		"ID" : 900,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Давао",
+		"NAME_EN" : "Davao",
+		"NAME_RO" : "Davao"
+	},
+	{
+		"ID" : 901,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "СОККСКСАРХЕН",
+		"NAME_EN" : "SOCCSKSARGEN",
+		"NAME_RO" : "SOCCSKSARGEN"
+	},
+	{
+		"ID" : 902,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Карага",
+		"NAME_EN" : "Caraga",
+		"NAME_RO" : "Caraga"
+	},
+	{
+		"ID" : 903,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Автономный регион в Мусульманском Минданао",
+		"NAME_EN" : "Autonomous Region in Muslim Mindanao",
+		"NAME_RO" : "Autonomous Region in Muslim Mindanao"
+	},
+	{
+		"ID" : 904,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Северный Минданао",
+		"NAME_EN" : "Northern Mindanao",
+		"NAME_RO" : "Northern Mindanao"
+	},
+	{
+		"ID" : 905,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Полуостров Замбоанга",
+		"NAME_EN" : "Zamboanga Peninsula",
+		"NAME_RO" : "Zamboanga Peninsula"
+	},
+	{
+		"ID" : 906,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Восточные Висайи",
+		"NAME_EN" : "Eastern Visayas",
+		"NAME_RO" : "Eastern Visayas"
+	},
+	{
+		"ID" : 907,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Центральные Висайи",
+		"NAME_EN" : "Central Visayas",
+		"NAME_RO" : "Central Visayas"
+	},
+	{
+		"ID" : 908,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Негрос",
+		"NAME_EN" : "Negros",
+		"NAME_RO" : "Negros"
+	},
+	{
+		"ID" : 909,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Западные Висайи",
+		"NAME_EN" : "Western Visayas",
+		"NAME_RO" : "Western Visayas"
+	},
+	{
+		"ID" : 910,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "КАЛАБАРСОН",
+		"NAME_EN" : "CALABARZON",
+		"NAME_RO" : "CALABARZON"
+	},
+	{
+		"ID" : 911,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "МИМАРОПА",
+		"NAME_EN" : "MIMAROPA",
+		"NAME_RO" : "MIMAROPA"
+	},
+	{
+		"ID" : 912,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Бикольский Регион",
+		"NAME_EN" : "Bicol Region",
+		"NAME_RO" : "Bicol Region"
+	},
+	{
+		"ID" : 913,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Центральный Лусон",
+		"NAME_EN" : "Central Luzon",
+		"NAME_RO" : "Central Luzon"
+	},
+	{
+		"ID" : 914,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Долина Кагаян",
+		"NAME_EN" : "Cagayan Valley",
+		"NAME_RO" : "Cagayan Valley"
+	},
+	{
+		"ID" : 915,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Кордильерский административный регион",
+		"NAME_EN" : "Cordillera Administrative Region",
+		"NAME_RO" : "Cordillera Administrative Region"
+	},
+	{
+		"ID" : 916,
+		"COUNTRY_ID" : 176,
+		"NAME_RU" : "Илокос",
+		"NAME_EN" : "Ilocos",
+		"NAME_RO" : "Ilocos"
+	},
+	{
+		"ID" : 917,
+		"COUNTRY_ID" : 117,
+		"NAME_RU" : "Восточно-Казахстанская область",
+		"NAME_EN" : "East Kazakhstan region",
+		"NAME_RO" : "East Kazakhstan region"
+	},
+	{
+		"ID" : 918,
+		"COUNTRY_ID" : 13,
+		"NAME_RU" : "Территория Федеральной столицы",
+		"NAME_EN" : "Capital Territory",
+		"NAME_RO" : "Capital Territory"
+	},
+	{
+		"ID" : 919,
+		"COUNTRY_ID" : 123,
+		"NAME_RU" : "Латгалия",
+		"NAME_EN" : "Latgale",
+		"NAME_RO" : "Latgale"
+	},
+	{
+		"ID" : 920,
+		"COUNTRY_ID" : 123,
+		"NAME_RU" : "Пририжье",
+		"NAME_EN" : "Pieriga",
+		"NAME_RO" : "Pieriga"
+	},
+	{
+		"ID" : 921,
+		"COUNTRY_ID" : 123,
+		"NAME_RU" : "Земгале",
+		"NAME_EN" : "Semigallia",
+		"NAME_RO" : "Semigallia"
+	},
+	{
+		"ID" : 922,
+		"COUNTRY_ID" : 123,
+		"NAME_RU" : "Курземе",
+		"NAME_EN" : "Courland",
+		"NAME_RO" : "Courland"
+	},
+	{
+		"ID" : 923,
+		"COUNTRY_ID" : 123,
+		"NAME_RU" : "Видземе",
+		"NAME_EN" : "Vidzeme",
+		"NAME_RO" : "Vidzeme"
+	},
+	{
+		"ID" : 924,
+		"COUNTRY_ID" : 232,
+		"NAME_RU" : "Ашхабад",
+		"NAME_EN" : "Ashgabat",
+		"NAME_RO" : "Ashgabat"
+	},
+	{
+		"ID" : 925,
+		"COUNTRY_ID" : 67,
+		"NAME_RU" : "Каир",
+		"NAME_EN" : "Cairo",
+		"NAME_RO" : "Cairo"
+	},
+	{
+		"ID" : 583,
+		"COUNTRY_ID" : 165,
+		"NAME_RU" : "Южная Корея",
+		"NAME_EN" : "South Korea",
+		"NAME_RO" : "South Korea"
+	},
+	{
+		"ID" : 584,
+		"COUNTRY_ID" : 169,
+		"NAME_RU" : "Пакистан",
+		"NAME_EN" : "Pakistan",
+		"NAME_RO" : "Pakistan"
+	},
+	{
+		"ID" : 585,
+		"COUNTRY_ID" : 224,
+		"NAME_RU" : "Тайланд",
+		"NAME_EN" : "Thailand",
+		"NAME_RO" : "Thailand"
+	},
+	{
+		"ID" : 586,
+		"COUNTRY_ID" : 237,
+		"NAME_RU" : "Дубаи",
+		"NAME_EN" : "Dubai",
+		"NAME_RO" : "Dubai"
+	},
+	{
+		"ID" : 587,
+		"COUNTRY_ID" : 124,
+		"NAME_RU" : "Бейрут",
+		"NAME_EN" : "Beirut",
+		"NAME_RO" : "Beirut"
+	},
+	{
+		"ID" : 588,
+		"COUNTRY_ID" : 220,
+		"NAME_RU" : "Дамаск",
+		"NAME_EN" : "Damascus",
+		"NAME_RO" : "Damascus"
+	},
+	{
+		"ID" : 589,
+		"COUNTRY_ID" : 110,
+		"NAME_RU" : "Остров Мэн",
+		"NAME_EN" : "Isle of Man",
+		"NAME_RO" : "Isle of Man"
+	},
+	{
+		"ID" : 590,
+		"COUNTRY_ID" : 124,
+		"NAME_RU" : "Бейрут",
+		"NAME_EN" : "Beirut",
+		"NAME_RO" : "Beirut"
+	},
+	{
+		"ID" : 591,
+		"COUNTRY_ID" : 148,
+		"NAME_RU" : "Улан-батор",
+		"NAME_EN" : "Ulaanbaatar",
+		"NAME_RO" : "Ulaanbaatar"
+	},
+	{
+		"ID" : 592,
+		"COUNTRY_ID" : 108,
+		"NAME_RU" : "Багдад",
+		"NAME_EN" : "Baghdad",
+		"NAME_RO" : "Baghdad"
+	},
+	{
+		"ID" : 593,
+		"COUNTRY_ID" : 108,
+		"NAME_RU" : "Басра",
+		"NAME_EN" : "Basra",
+		"NAME_RO" : "Basra"
+	},
+	{
+		"ID" : 594,
+		"COUNTRY_ID" : 108,
+		"NAME_RU" : "Мосул",
+		"NAME_EN" : "Mosul",
+		"NAME_RO" : "Mosul"
+	},
+	{
+		"ID" : 595,
+		"COUNTRY_ID" : 67,
+		"NAME_RU" : "Асуан",
+		"NAME_EN" : "Aswan",
+		"NAME_RO" : "Aswan"
+	},
+	{
+		"ID" : 596,
+		"COUNTRY_ID" : 67,
+		"NAME_RU" : "Асьют",
+		"NAME_EN" : "Assiut",
+		"NAME_RO" : "Assiut"
+	},
+	{
+		"ID" : 597,
+		"COUNTRY_ID" : 67,
+		"NAME_RU" : "Бени-Суэйф",
+		"NAME_EN" : "Beni Suef",
+		"NAME_RO" : "Beni Suef"
+	},
+	{
+		"ID" : 598,
+		"COUNTRY_ID" : 67,
+		"NAME_RU" : "Гарбия",
+		"NAME_EN" : "Gharbia",
+		"NAME_RO" : "Gharbia"
+	},
+	{
+		"ID" : 599,
+		"COUNTRY_ID" : 67,
+		"NAME_RU" : "Думьят",
+		"NAME_EN" : "Damietta",
+		"NAME_RO" : "Damietta"
+	},
+	{
+		"ID" : 600,
+		"COUNTRY_ID" : 67,
+		"NAME_RU" : "Египет",
+		"NAME_EN" : "Egypt",
+		"NAME_RO" : "Egypt"
+	},
+	{
+		"ID" : 601,
+		"COUNTRY_ID" : 67,
+		"NAME_RU" : "Синай",
+		"NAME_EN" : "Sinai",
+		"NAME_RO" : "Sinai"
+	},
+	{
+		"ID" : 602,
+		"COUNTRY_ID" : 41,
+		"NAME_RU" : "Прибрежный регион",
+		"NAME_EN" : "Littoral Region",
+		"NAME_RO" : "Littoral Region"
+	},
+	{
+		"ID" : 603,
+		"COUNTRY_ID" : 41,
+		"NAME_RU" : "Юго-Западный регион",
+		"NAME_EN" : "South-West region",
+		"NAME_RO" : "South-West region"
+	},
+	{
+		"ID" : 604,
+		"COUNTRY_ID" : 41,
+		"NAME_RU" : "Крайнесеверный регион",
+		"NAME_EN" : "North Region",
+		"NAME_RO" : "North Region"
+	},
+	{
+		"ID" : 605,
+		"COUNTRY_ID" : 41,
+		"NAME_RU" : "Центральный регион",
+		"NAME_EN" : "Central Region",
+		"NAME_RO" : "Central Region"
+	},
+	{
+		"ID" : 606,
+		"COUNTRY_ID" : 120,
+		"NAME_RU" : "Эль-Джахра",
+		"NAME_EN" : "al-Jahra",
+		"NAME_RO" : "al-Jahra"
+	},
+	{
+		"ID" : 607,
+		"COUNTRY_ID" : 120,
+		"NAME_RU" : "Эль-Кувейт",
+		"NAME_EN" : "al-Kuwayt",
+		"NAME_RO" : "al-Kuwayt"
+	},
+	{
+		"ID" : 608,
+		"COUNTRY_ID" : 127,
+		"NAME_RU" : "Бенгази",
+		"NAME_EN" : "Benghazi",
+		"NAME_RO" : "Benghazi"
+	},
+	{
+		"ID" : 609,
+		"COUNTRY_ID" : 183,
+		"NAME_RU" : "Сен-Дени",
+		"NAME_EN" : "Saint-Denis",
+		"NAME_RO" : "Saint-Denis"
+	},
+	{
+		"ID" : 610,
+		"COUNTRY_ID" : 235,
+		"NAME_RU" : "Восточная",
+		"NAME_EN" : "East",
+		"NAME_RO" : "East"
+	},
+	{
+		"ID" : 611,
+		"COUNTRY_ID" : 235,
+		"NAME_RU" : "Центральная",
+		"NAME_EN" : "Central",
+		"NAME_RO" : "Central"
+	},
+	{
+		"ID" : 612,
+		"COUNTRY_ID" : 235,
+		"NAME_RU" : "Северная",
+		"NAME_EN" : "North",
+		"NAME_RO" : "North"
+	},
+	{
+		"ID" : 613,
+		"COUNTRY_ID" : 235,
+		"NAME_RU" : "Западная",
+		"NAME_EN" : "West",
+		"NAME_RO" : "West"
+	},
+	{
+		"ID" : 614,
+		"COUNTRY_ID" : 66,
+		"NAME_RU" : "Пичинча",
+		"NAME_EN" : "Pichincha",
+		"NAME_RO" : "Pichincha"
+	},
+	{
+		"ID" : 615,
+		"COUNTRY_ID" : 151,
+		"NAME_RU" : "Морокко",
+		"NAME_EN" : "Morocco",
+		"NAME_RO" : "Morocco"
+	},
+	{
+		"ID" : 616,
+		"COUNTRY_ID" : 151,
+		"NAME_RU" : "Танжер",
+		"NAME_EN" : "Tangier",
+		"NAME_RO" : "Tangier"
+	},
+	{
+		"ID" : 617,
+		"COUNTRY_ID" : 152,
+		"NAME_RU" : "Мозамбик",
+		"NAME_EN" : "Mozambique",
+		"NAME_RO" : "Mozambique"
+	},
+	{
+		"ID" : 618,
+		"COUNTRY_ID" : 230,
+		"NAME_RU" : "Тунис",
+		"NAME_EN" : "Tunisia",
+		"NAME_RO" : "Tunisia"
+	},
+	{
+		"ID" : 619,
+		"COUNTRY_ID" : 22,
+		"NAME_RU" : "Белиз",
+		"NAME_EN" : "Belize",
+		"NAME_RO" : "Belize"
+	},
+	{
+		"ID" : 963,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "City of London",
+		"NAME_EN" : "City of London",
+		"NAME_RO" : "City of London"
+	},
+	{
+		"ID" : 964,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Cornwall",
+		"NAME_EN" : "Cornwall",
+		"NAME_RO" : "Cornwall"
+	},
+	{
+		"ID" : 965,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Cumbria",
+		"NAME_EN" : "Cumbria",
+		"NAME_RO" : "Cumbria"
+	},
+	{
+		"ID" : 966,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Derbyshire",
+		"NAME_EN" : "Derbyshire",
+		"NAME_RO" : "Derbyshire"
+	},
+	{
+		"ID" : 967,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Devon",
+		"NAME_EN" : "Devon",
+		"NAME_RO" : "Devon"
+	},
+	{
+		"ID" : 968,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Dorset",
+		"NAME_EN" : "Dorset",
+		"NAME_RO" : "Dorset"
+	},
+	{
+		"ID" : 969,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Durham",
+		"NAME_EN" : "Durham",
+		"NAME_RO" : "Durham"
+	},
+	{
+		"ID" : 970,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "East Sussex",
+		"NAME_EN" : "East Sussex",
+		"NAME_RO" : "East Sussex"
+	},
+	{
+		"ID" : 971,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Essex",
+		"NAME_EN" : "Essex",
+		"NAME_RO" : "Essex"
+	},
+	{
+		"ID" : 972,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Gloucestershire",
+		"NAME_EN" : "Gloucestershire",
+		"NAME_RO" : "Gloucestershire"
+	},
+	{
+		"ID" : 973,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Greater London",
+		"NAME_EN" : "Greater London",
+		"NAME_RO" : "Greater London"
+	},
+	{
+		"ID" : 974,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Greater Manchester",
+		"NAME_EN" : "Greater Manchester",
+		"NAME_RO" : "Greater Manchester"
+	},
+	{
+		"ID" : 975,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Hampshire",
+		"NAME_EN" : "Hampshire",
+		"NAME_RO" : "Hampshire"
+	},
+	{
+		"ID" : 976,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Herefordshire",
+		"NAME_EN" : "Herefordshire",
+		"NAME_RO" : "Herefordshire"
+	},
+	{
+		"ID" : 977,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Hertfordshire",
+		"NAME_EN" : "Hertfordshire",
+		"NAME_RO" : "Hertfordshire"
+	},
+	{
+		"ID" : 978,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Isle of Wight",
+		"NAME_EN" : "Isle of Wight",
+		"NAME_RO" : "Isle of Wight"
+	},
+	{
+		"ID" : 979,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Kent",
+		"NAME_EN" : "Kent",
+		"NAME_RO" : "Kent"
+	},
+	{
+		"ID" : 980,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Lancashire",
+		"NAME_EN" : "Lancashire",
+		"NAME_RO" : "Lancashire"
+	},
+	{
+		"ID" : 981,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Leicestershire",
+		"NAME_EN" : "Leicestershire",
+		"NAME_RO" : "Leicestershire"
+	},
+	{
+		"ID" : 982,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Lincolnshire",
+		"NAME_EN" : "Lincolnshire",
+		"NAME_RO" : "Lincolnshire"
+	},
+	{
+		"ID" : 984,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Merseyside",
+		"NAME_EN" : "Merseyside",
+		"NAME_RO" : "Merseyside"
+	},
+	{
+		"ID" : 985,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Norfolk",
+		"NAME_EN" : "Norfolk",
+		"NAME_RO" : "Norfolk"
+	},
+	{
+		"ID" : 986,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "North Yorkshire",
+		"NAME_EN" : "North Yorkshire",
+		"NAME_RO" : "North Yorkshire"
+	},
+	{
+		"ID" : 987,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Northamptonshire",
+		"NAME_EN" : "Northamptonshire",
+		"NAME_RO" : "Northamptonshire"
+	},
+	{
+		"ID" : 988,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Northumberland",
+		"NAME_EN" : "Northumberland",
+		"NAME_RO" : "Northumberland"
+	},
+	{
+		"ID" : 989,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Nottinghamshire",
+		"NAME_EN" : "Nottinghamshire",
+		"NAME_RO" : "Nottinghamshire"
+	},
+	{
+		"ID" : 990,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Oxfordshire",
+		"NAME_EN" : "Oxfordshire",
+		"NAME_RO" : "Oxfordshire"
+	},
+	{
+		"ID" : 991,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Rutland",
+		"NAME_EN" : "Rutland",
+		"NAME_RO" : "Rutland"
+	},
+	{
+		"ID" : 992,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Shropshire",
+		"NAME_EN" : "Shropshire",
+		"NAME_RO" : "Shropshire"
+	},
+	{
+		"ID" : 993,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Somerset",
+		"NAME_EN" : "Somerset",
+		"NAME_RO" : "Somerset"
+	},
+	{
+		"ID" : 994,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "South Yorkshire",
+		"NAME_EN" : "South Yorkshire",
+		"NAME_RO" : "South Yorkshire"
+	},
+	{
+		"ID" : 995,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Staffordshire",
+		"NAME_EN" : "Staffordshire",
+		"NAME_RO" : "Staffordshire"
+	},
+	{
+		"ID" : 996,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Suffolk",
+		"NAME_EN" : "Suffolk",
+		"NAME_RO" : "Suffolk"
+	},
+	{
+		"ID" : 997,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Surrey",
+		"NAME_EN" : "Surrey",
+		"NAME_RO" : "Surrey"
+	},
+	{
+		"ID" : 998,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Tyne and Wear",
+		"NAME_EN" : "Tyne and Wear",
+		"NAME_RO" : "Tyne and Wear"
+	},
+	{
+		"ID" : 999,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Warwickshire",
+		"NAME_EN" : "Warwickshire",
+		"NAME_RO" : "Warwickshire"
+	},
+	{
+		"ID" : 1000,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "West Midlands",
+		"NAME_EN" : "West Midlands",
+		"NAME_RO" : "West Midlands"
+	},
+	{
+		"ID" : 1001,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "West Sussex",
+		"NAME_EN" : "West Sussex",
+		"NAME_RO" : "West Sussex"
+	},
+	{
+		"ID" : 1002,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "West Yorkshire",
+		"NAME_EN" : "West Yorkshire",
+		"NAME_RO" : "West Yorkshire"
+	},
+	{
+		"ID" : 1003,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Wiltshire",
+		"NAME_EN" : "Wiltshire",
+		"NAME_RO" : "Wiltshire"
+	},
+	{
+		"ID" : 1005,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "East Riding",
+		"NAME_EN" : "East Riding",
+		"NAME_RO" : "East Riding"
+	},
+	{
+		"ID" : 1004,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Worcestershire",
+		"NAME_EN" : "Worcestershire",
+		"NAME_RO" : "Worcestershire"
+	},
+	{
+		"ID" : 1007,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Gwent",
+		"NAME_EN" : "Gwent",
+		"NAME_RO" : "Gwent"
+	},
+	{
+		"ID" : 1006,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Ангилья",
+		"NAME_EN" : "Anguilla",
+		"NAME_RO" : "Anguilla"
+	},
+	{
+		"ID" : 1008,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Antrim",
+		"NAME_EN" : "Antrim",
+		"NAME_RO" : "Antrim"
+	},
+	{
+		"ID" : 1009,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Gwynedd",
+		"NAME_EN" : "Gwynedd",
+		"NAME_RO" : "Gwynedd"
+	},
+	{
+		"ID" : 1010,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Ольстер",
+		"NAME_EN" : "Ulster",
+		"NAME_RO" : "Ulster"
+	},
+	{
+		"ID" : 1011,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Лондондерри",
+		"NAME_EN" : "Londonderry",
+		"NAME_RO" : "Londonderry"
+	},
+	{
+		"ID" : 1012,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Mid Glamorgan",
+		"NAME_EN" : "Mid Glamorgan",
+		"NAME_RO" : "Mid Glamorgan"
+	},
+	{
+		"ID" : 1013,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Vale of Glamorgan",
+		"NAME_EN" : "Vale of Glamorgan",
+		"NAME_RO" : "Vale of Glamorgan"
+	},
+	{
+		"ID" : 1014,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "South Glamorgan",
+		"NAME_EN" : "South Glamorgan",
+		"NAME_RO" : "South Glamorgan"
+	},
+	{
+		"ID" : 1015,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Мертир-Тидвил\tMerthyr Tydfil\tMerthyr Tydfil",
+		"NAME_EN" : "Merthyr Tydfil",
+		"NAME_RO" : "Merthyr Tydfil"
+	},
+	{
+		"ID" : 1016,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Neath Port Talbot",
+		"NAME_EN" : "Neath Port Talbot",
+		"NAME_RO" : "Neath Port Talbot"
+	},
+	{
+		"ID" : 1017,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Swansea ",
+		"NAME_EN" : "Swansea ",
+		"NAME_RO" : "Swansea "
+	},
+	{
+		"ID" : 1018,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Inverness-shire",
+		"NAME_EN" : "Inverness-shire",
+		"NAME_RO" : "Inverness-shire"
+	},
+	{
+		"ID" : 1019,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Aberdeenshire",
+		"NAME_EN" : "Aberdeenshire",
+		"NAME_RO" : "Aberdeenshire"
+	},
+	{
+		"ID" : 1020,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Banffshire",
+		"NAME_EN" : "Banffshire",
+		"NAME_RO" : "Banffshire"
+	},
+	{
+		"ID" : 1021,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Perthshire",
+		"NAME_EN" : "Perthshire",
+		"NAME_RO" : "Perthshire"
+	},
+	{
+		"ID" : 1022,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Ross and Cromarty",
+		"NAME_EN" : "Ross and Cromarty",
+		"NAME_RO" : "Ross and Cromarty"
+	},
+	{
+		"ID" : 1023,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Argyll",
+		"NAME_EN" : "Argyll",
+		"NAME_RO" : "Argyll"
+	},
+	{
+		"ID" : 1024,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Angus",
+		"NAME_EN" : "Angus",
+		"NAME_RO" : "Angus"
+	},
+	{
+		"ID" : 1025,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "\tSutherland",
+		"NAME_EN" : "\tSutherland",
+		"NAME_RO" : "\tSutherland"
+	},
+	{
+		"ID" : 1026,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Stirlingshire",
+		"NAME_EN" : "Stirlingshire",
+		"NAME_RO" : "Stirlingshire"
+	},
+	{
+		"ID" : 1027,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Dunbartonshire",
+		"NAME_EN" : "Dunbartonshire",
+		"NAME_RO" : "Dunbartonshire"
+	},
+	{
+		"ID" : 1028,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Bute",
+		"NAME_EN" : "Bute",
+		"NAME_RO" : "Bute"
+	},
+	{
+		"ID" : 1029,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "\tKirkcudbrightshire",
+		"NAME_EN" : "\tKirkcudbrightshire",
+		"NAME_RO" : "\tKirkcudbrightshire"
+	},
+	{
+		"ID" : 1030,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Peeblesshire",
+		"NAME_EN" : "Peeblesshire",
+		"NAME_RO" : "Peeblesshire"
+	},
+	{
+		"ID" : 1031,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Selkirkshire",
+		"NAME_EN" : "Selkirkshire",
+		"NAME_RO" : "Selkirkshire"
+	},
+	{
+		"ID" : 1033,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Ayrshire",
+		"NAME_EN" : "Ayrshire",
+		"NAME_RO" : "Ayrshire"
+	},
+	{
+		"ID" : 1034,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Kincardineshire",
+		"NAME_EN" : "Kincardineshire",
+		"NAME_RO" : "Kincardineshire"
+	},
+	{
+		"ID" : 1035,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Roxburghshire",
+		"NAME_EN" : "Roxburghshire",
+		"NAME_RO" : "Roxburghshire"
+	},
+	{
+		"ID" : 1036,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Clackmannanshire",
+		"NAME_EN" : "Clackmannanshire",
+		"NAME_RO" : "Clackmannanshire"
+	},
+	{
+		"ID" : 1037,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Moray",
+		"NAME_EN" : "Moray",
+		"NAME_RO" : "Moray"
+	},
+	{
+		"ID" : 1038,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Caithness",
+		"NAME_EN" : "Caithness",
+		"NAME_RO" : "Caithness"
+	},
+	{
+		"ID" : 1039,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Nairnshire",
+		"NAME_EN" : "Nairnshire",
+		"NAME_RO" : "Nairnshire"
+	},
+	{
+		"ID" : 1040,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Midlothian",
+		"NAME_EN" : "Midlothian",
+		"NAME_RO" : "Midlothian"
+	},
+	{
+		"ID" : 1041,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "East Lothian",
+		"NAME_EN" : "East Lothian",
+		"NAME_RO" : "East Lothian"
+	},
+	{
+		"ID" : 1042,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Berwickshire",
+		"NAME_EN" : "Berwickshire",
+		"NAME_RO" : "Berwickshire"
+	},
+	{
+		"ID" : 1043,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Fife",
+		"NAME_EN" : "Fife",
+		"NAME_RO" : "Fife"
+	},
+	{
+		"ID" : 1044,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Renfrewshire",
+		"NAME_EN" : "Renfrewshire",
+		"NAME_RO" : "Renfrewshire"
+	},
+	{
+		"ID" : 1045,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Kinross-shire",
+		"NAME_EN" : "Kinross-shire",
+		"NAME_RO" : "Kinross-shire"
+	},
+	{
+		"ID" : 1046,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "\tOrkney",
+		"NAME_EN" : "\tOrkney",
+		"NAME_RO" : "\tOrkney"
+	},
+	{
+		"ID" : 1047,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Shetland",
+		"NAME_EN" : "Shetland",
+		"NAME_RO" : "Shetland"
+	},
+	{
+		"ID" : 1048,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Wigtownshire",
+		"NAME_EN" : "Wigtownshire",
+		"NAME_RO" : "Wigtownshire"
+	},
+	{
+		"ID" : 1049,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "West Lothian",
+		"NAME_EN" : "West Lothian",
+		"NAME_RO" : "West Lothian"
+	},
+	{
+		"ID" : 1050,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "City of Glasgow",
+		"NAME_EN" : "City of Glasgow",
+		"NAME_RO" : "City of Glasgow"
+	},
+	{
+		"ID" : 1051,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Aberdeen City",
+		"NAME_EN" : "Aberdeen City",
+		"NAME_RO" : "Aberdeen City"
+	},
+	{
+		"ID" : 1052,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Dundee City",
+		"NAME_EN" : "Dundee City",
+		"NAME_RO" : "Dundee City"
+	},
+	{
+		"ID" : 1053,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "West Dunbartonshire",
+		"NAME_EN" : "West Dunbartonshire",
+		"NAME_RO" : "West Dunbartonshire"
+	},
+	{
+		"ID" : 1032,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Dumfries and Galloway",
+		"NAME_EN" : "Dumfries and Galloway",
+		"NAME_RO" : "Dumfries and Galloway"
+	},
+	{
+		"ID" : 1055,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Highland",
+		"NAME_EN" : "Highland",
+		"NAME_RO" : "Highland"
+	},
+	{
+		"ID" : 1056,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "East Ayrshire",
+		"NAME_EN" : "East Ayrshire",
+		"NAME_RO" : "East Ayrshire"
+	},
+	{
+		"ID" : 1057,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "Falkirk",
+		"NAME_EN" : "Falkirk",
+		"NAME_RO" : "Falkirk"
+	},
+	{
+		"ID" : 1058,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "City of Edinburgh",
+		"NAME_EN" : "City of Edinburgh",
+		"NAME_RO" : "City of Edinburgh"
+	},
+	{
+		"ID" : 1059,
+		"COUNTRY_ID" : 238,
+		"NAME_RU" : "London",
+		"NAME_EN" : "London",
+		"NAME_RO" : "London"
+	},
+	{
+		"ID" : 1060,
+		"COUNTRY_ID" : 184,
+		"NAME_RU" : "Sectorul",
+		"NAME_EN" : "Sectorul",
+		"NAME_RO" : "Sectorul"
+	}
+]}
